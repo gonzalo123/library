@@ -1,9 +1,14 @@
-sap.ui.define(["./BaseController", "sap/m/MessageBox"], function (BaseController, MessageBox) {
+sap.ui.define([
+	"./BaseController",
+	"sap/ui/model/json/JSONModel"
+], function (BaseController, JSONModel) {
 	"use strict";
 
 	return BaseController.extend("library.controller.Main", {
-		sayHello: function () {
-			MessageBox.show("Hello World!");
-		}
+
+		onInit: function () {
+			const oModel = new JSONModel(sap.ui.require.toUrl("library/data/books.json"));
+			this.getView().setModel(oModel);
+		},
 	});
 });

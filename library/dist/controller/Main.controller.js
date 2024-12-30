@@ -1,2 +1,2 @@
-sap.ui.define(["./BaseController","sap/m/MessageBox"],function(e,o){"use strict";return e.extend("library.controller.Main",{sayHello:function(){o.show("Hello World!")}})});
+sap.ui.define(["./BaseController","sap/ui/model/json/JSONModel"],function(e,n){"use strict";return e.extend("library.controller.Main",{onInit:function(){const e=new n(sap.ui.require.toUrl("library/data/books.json"));this.getView().setModel(e)}})});
 //# sourceMappingURL=Main.controller.js.map

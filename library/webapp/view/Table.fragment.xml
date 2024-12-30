@@ -1,0 +1,78 @@
+<mvc:View
+  xmlns:m="sap.m"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns:t="sap.ui.table"
+  controllerName="ris.controller.Main">
+  <m:VBox class="sapUiSizeCompact">
+
+    <t:Table
+      id="table"
+      selectionMode="None"
+      rows="{/Books}"
+      sort="sortDeliveryDate"
+      ariaLabelledBy="title">
+      <t:extension>
+      </t:extension>
+      <t:columns>
+        <t:Column
+          id="Id"
+          width="3rem"
+          sortProperty="Id">
+          <m:Label text="Id"/>
+          <t:template>
+            <m:Text text="{Id}" wrapping="false"/>
+          </t:template>
+        </t:Column>
+        <t:Column
+          id="Title"
+          width="11rem"
+          sortProperty="Title">
+          <m:Label text="Title"/>
+          <t:template>
+            <m:Text text="{Title}" wrapping="false"/>
+          </t:template>
+        </t:Column>
+        <t:Column
+          id="Author"
+          width="11rem"
+          sortProperty="Author">
+          <m:Label text="Author"/>
+          <t:template>
+            <m:Text text="{Author}" wrapping="false"/>
+          </t:template>
+        </t:Column>
+        <t:Column
+          id="Status"
+          width="11rem"
+          sortProperty="Status">
+          <m:Label text="Status"/>
+          <t:template>
+            <m:Text text="{Status}" wrapping="false"/>
+          </t:template>
+        </t:Column>
+        <t:Column
+          id="Genre"
+          width="11rem"
+          sortProperty="Genre">
+          <m:Label text="Genre"/>
+          <t:template>
+            <m:Text text="{Genre}" wrapping="false"/>
+          </t:template>
+        </t:Column>
+        <t:Column
+          id="ReadingDate"
+          width="11rem"
+          sortProperty="ReadingDate">
+          <m:Label text="ReadingDate"/>
+          <t:template>
+            <m:Text text="{
+								path: 'ReadingDate',
+								type: 'sap.ui.model.type.Date',
+								formatOptions: {source: {pattern: 'dd/MM/yyyy'}, style: 'long'}
+							}" wrapping="false"/>
+          </t:template>
+        </t:Column>
+      </t:columns>
+    </t:Table>
+  </m:VBox>
+</mvc:View>
