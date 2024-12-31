@@ -1,3 +1,2 @@
 
-yo easy-ui5 project
-app
+https://gonzalo123.github.io/library/

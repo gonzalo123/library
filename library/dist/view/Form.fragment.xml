@@ -2,68 +2,9 @@
   xmlns:m="sap.m"
   xmlns:c="sap.ui.core"
   xmlns:f="sap.ui.layout.form"
-  xmlns:l="sap.ui.layout"
-  xmlns:ris="cards.control">
+>
 
-  <m:IconTabBar
-    id="formTab"
-    expandable="false"
-    class="sapUiSizeCompact">
-    <m:items>
-
-      <m:IconTabFilter
-        id="tabLocation"
-        text="{i18n>LOCATION_SEARCH}">
-        <f:Form editable="true" class="sapUiSizeCompact">
-          <f:title>
-          </f:title>
-          <f:layout>
-            <f:ResponsiveGridLayout
-              labelSpanXL="4"
-              labelSpanL="3"
-              labelSpanM="4"
-              labelSpanS="12"
-              adjustLabelSpan="false"
-              emptySpanXL="0"
-              emptySpanL="4"
-              emptySpanM="0"
-              emptySpanS="0"
-              columnsXL="2"
-              columnsL="1"
-              columnsM="1"
-              singleContainerFullSize="false"/>
-          </f:layout>
-          <f:formContainers>
-            <f:FormContainer title="">
-              <f:formElements>
-                <f:FormElement label="{i18n>VIEW}">
-                  <f:fields>
-                    <m:ComboBox
-                      selectedKey="{/form/location}"
-                      id="location"
-                      change="handleLocationSelected"
-                      items="{
-                        path: '/masterdata/locations',
-                        sorter: {
-                          path: 'nave',
-                          descending: false,
-                          group: true
-                        }
-                        }">
-                      <c:Item text="{name}" key="{id}"/>
-                    </m:ComboBox>
-                  </f:fields>
-                </f:FormElement>
-              </f:formElements>
-            </f:FormContainer>
-          </f:formContainers>
-        </f:Form>
-      </m:IconTabFilter>
-
-      <m:IconTabFilter
-        id="tabAdvanced"
-        text="{i18n>ADVANCED_SEARCH}">
-        <f:Form editable="true" class="sapUiSizeCompact">
+  <f:Form editable="true" class="sapUiSizeCompact">
           <f:title>
             <!--<c:Title text="" />-->
           </f:title>
@@ -86,109 +27,77 @@
           <f:formContainers>
             <f:FormContainer title="">
               <f:formElements>
-                <f:FormElement label="{i18n>CAMARA}">
-                  <f:fields>
-                    <m:ComboBox
-                      selectedKey="{/form/cam}"
-                      id="cam"
-                      change="handleCamSelected"
-                      items="{
-                        path: '/masterdata/parsed_presets',
-                        sorter: {
-                          path: 'nave',
-                          descending: false,
-                          group: true
-                        }
-                        }">
-                      <c:Item text="{name}" key="{id}"/>
-                    </m:ComboBox>
-                  </f:fields>
-                </f:FormElement>
-                <f:FormElement label="{i18n>PRESET}">
-                  <f:fields>
-                    <m:ComboBox
-                      selectedKey="{/form/preset}"
-                      id="preset"
-                      change="handlePresetSelected"
-                      items="{
-                        path: '/masterdata/filteredPresets',
-                        sorter: {
-                          path: 'nave',
-                          descending: false
-                        }
-                        }">
-                      <c:Item text="{name}" key="{id}"/>
-                    </m:ComboBox>
-                  </f:fields>
-                </f:FormElement>
-              </f:formElements>
-            </f:FormContainer>
-          </f:formContainers>
-        </f:Form>
-      </m:IconTabFilter>
-
-      <m:IconTabFilter
-        id="tabBundle"
-        text="{i18n>BUNDLE_SEARCH}">
-        <f:Form editable="true" class="sapUiSizeCompact">
-          <f:title>
-            <!--<c:Title text="" />-->
-          </f:title>
-          <f:layout>
-            <f:ResponsiveGridLayout
-              labelSpanXL="4"
-              labelSpanL="3"
-              labelSpanM="4"
-              labelSpanS="12"
-              adjustLabelSpan="false"
-              emptySpanXL="0"
-              emptySpanL="4"
-              emptySpanM="0"
-              emptySpanS="0"
-              columnsXL="2"
-              columnsL="1"
-              columnsM="1"
-              singleContainerFullSize="false"/>
-          </f:layout>
-          <f:formContainers>
-            <f:FormContainer title="">
-              <f:formElements>
-                <f:FormElement label="{i18n>ID}">
+                <f:FormElement label="{i18n>TITLE}">
                   <f:fields>
                     <m:Input
-                      value="{/form/idpaquete}"
-                      placeholder="{i18n>TYPE_BUNDLE_MANUALLY}"
-                      showValueHelp="true"
-                      valueHelpIconSrc="sap-icon://edit-outside"
-                      valueHelpRequest="handleBundleValueHelpRequest"
-                      >
+                      value="{/form/title}"
+                      showValueHelp="false"
+                    >
                     </m:Input>
                   </f:fields>
                 </f:FormElement>
+                <f:FormElement label="{i18n>AUTHOR}">
+                  <f:fields>
+                    <m:ComboBox
+                      selectedKey="{/form/author}"
+                      id="author"
+                      items="{
+                        path: '/masterdata/authors',
+                        sorter: {
+                          path: 'value',
+                          descending: false
+                        }
+                        }">
+                      <c:Item text="{value}" key="{value}"/>
+                    </m:ComboBox>
+                  </f:fields>
+                </f:FormElement>
+                <f:FormElement label="{i18n>STATE}">
+                  <f:fields>
+                    <m:ComboBox
+                      selectedKey="{/form/state}"
+                      items="{
+                        path: '/masterdata/states',
+                        sorter: {
+                          path: 'value',
+                          descending: false
+                        }
+                        }">
+                      <c:Item text="{value}" key="{value}"/>
+                    </m:ComboBox>
+                  </f:fields>
+                </f:FormElement>
+                <f:FormElement label="{i18n>GENRE}">
+                  <f:fields>
+                    <m:ComboBox
+                      selectedKey="{/form/genre}"
+                      items="{
+                        path: '/masterdata/genres',
+                        sorter: {
+                          path: 'genre',
+                          descending: false
+                        }
+                        }">
+                      <c:Item text="{value}" key="{value}"/>
+                    </m:ComboBox>
+                  </f:fields>
+                </f:FormElement>
               </f:formElements>
             </f:FormContainer>
           </f:formContainers>
         </f:Form>
-      </m:IconTabFilter>
-    </m:items>
-  </m:IconTabBar>
 
   <m:Toolbar>
     <m:Button
-      text="{i18n>UNLOCK} {/data/lockedBy}"
-      press="handleUnlock"
-      visible="{= ${/data/busy} }"/>
-    <m:ToolbarSpacer/>
-    <m:Button
-      text="{i18n>NOT_OPTIMUM}"
-      visible="{= !${/data/isOptimum} }"
+      text="{i18n>CLEAN}"
       type="Reject"
-      icon="sap-icon://alert"
-      press="handleGoToOptimum"/>
+      icon="sap-icon://decline"
+      press="handleCleanSelected"/>
     <m:ToolbarSpacer/>
     <m:Button
       text="{i18n>OK}"
+      icon="sap-icon://search"
       type="Emphasized"
-      press="handlePresetSelected"/>
+      press="handleSearchSelected"/>
   </m:Toolbar>
 </c:FragmentDefinition>

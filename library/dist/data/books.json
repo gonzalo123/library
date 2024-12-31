@@ -1,44 +1,47 @@
-{
-  "Books": [
-    {
-      "Id": 1,
-      "Title": "La Odisea",
-      "Author": "Homero",
-      "Status": "Leído",
-      "Genre": "Épico",
-      "ReadingDate": "2024-12-01"
-    },
-    {
-      "Id": 2,
-      "Title": "Veinte mil leguas de viaje submarino",
-      "Author": "Julio Verne",
-      "Status": "Leyendo",
-      "Genre": "Aventura",
-      "ReadingDate": null
-    },
-    {
-      "Id": 3,
-      "Title": "Crimen y castigo",
-      "Author": "Fiódor Dostoyevski",
-      "Status": "Pendiente",
-      "Genre": "Clásico",
-      "ReadingDate": null
-    },
-    {
-      "Id": 4,
-      "Title": "La Ilíada",
-      "Author": "Homero",
-      "Status": "Leído",
-      "Genre": "Épico",
-      "ReadingDate": "2024-11-15"
-    },
-    {
-      "Id": 5,
-      "Title": "El Conde de Montecristo",
-      "Author": "Alejandro Dumas",
-      "Status": "Pendiente",
-      "Genre": "Aventura",
-      "ReadingDate": null
-    }
-  ]
-}
+[
+  {
+    "Id": 1,
+    "Title": "Oráculos griegos",
+    "Author": "David Hernández de la Fuente",
+    "State": "Leído",
+    "ReadingDate": "2024-12-18",
+    "Genre": "Ensayo",
+    "Image": "52195832.jpg"
+  },
+  {
+    "Id": 2,
+    "Title": "Frankenstein",
+    "Author": "Mary Shelley",
+    "State": "Leído",
+    "ReadingDate": "2024-12-29",
+    "Genre": "Novela",
+    "Image": "6549846.jpg"
+  },
+  {
+    "Id": 3,
+    "Title": "La vida secreta: Diario inédito",
+    "Author": "Gala Dalí",
+    "State": "Leído",
+    "ReadingDate": "2024-12-22",
+    "Genre": "Novela",
+    "Image": "220704140.jpg"
+  },
+  {
+    "Id": 4,
+    "Title": "Maneras trágicas de matar a una mujer",
+    "Author": "Nicole Loraux",
+    "State": "Leído",
+    "ReadingDate": "2024-12-11",
+    "Genre": "Ensayo",
+    "Image": "55014544.jpg"
+  },
+  {
+    "Id": 5,
+    "Title": "Antes de Troya: Biblioteca histórica: Libro IV y fragmentos del Libro VI",
+    "Author": "Diodoro de Sicilia",
+    "State": "Leído",
+    "ReadingDate": "2024-12-10",
+    "Genre": "Novela",
+    "Image": "62690248.jpg"
+  }
+]
