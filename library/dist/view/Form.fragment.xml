@@ -27,7 +27,7 @@
           <f:formContainers>
             <f:FormContainer title="">
               <f:formElements>
-                <f:FormElement label="{i18n>TITLE}">
+                <f:FormElement label="Título">
                   <f:fields>
                     <m:Input
                       value="{/form/title}"
@@ -36,7 +36,7 @@
                     </m:Input>
                   </f:fields>
                 </f:FormElement>
-                <f:FormElement label="{i18n>AUTHOR}">
+                <f:FormElement label="Autor">
                   <f:fields>
                     <m:ComboBox
                       selectedKey="{/form/author}"
@@ -52,7 +52,7 @@
                     </m:ComboBox>
                   </f:fields>
                 </f:FormElement>
-                <f:FormElement label="{i18n>STATE}">
+                <f:FormElement label="Estado">
                   <f:fields>
                     <m:ComboBox
                       selectedKey="{/form/state}"
@@ -67,7 +67,7 @@
                     </m:ComboBox>
                   </f:fields>
                 </f:FormElement>
-                <f:FormElement label="{i18n>GENRE}">
+                <f:FormElement label="Género">
                   <f:fields>
                     <m:ComboBox
                       selectedKey="{/form/genre}"
@@ -89,13 +89,13 @@
 
   <m:Toolbar>
     <m:Button
-      text="{i18n>CLEAN}"
+      text="Limpiar"
       type="Reject"
       icon="sap-icon://decline"
       press="handleCleanSelected"/>
     <m:ToolbarSpacer/>
     <m:Button
-      text="{i18n>OK}"
+      text="Buscar"
       icon="sap-icon://search"
       type="Emphasized"
       press="handleSearchSelected"/>

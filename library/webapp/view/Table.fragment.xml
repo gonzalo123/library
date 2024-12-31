@@ -42,7 +42,7 @@
           id="Title"
           width="11rem"
           sortProperty="Title">
-          <m:Label text="Title"/>
+          <m:Label text="Título"/>
           <t:template>
             <m:Text text="{Title}" wrapping="false"/>
           </t:template>
@@ -51,7 +51,7 @@
           id="Author"
           width="11rem"
           sortProperty="Author">
-          <m:Label text="Author"/>
+          <m:Label text="Autor"/>
           <t:template>
             <m:Text text="{Author}" wrapping="false"/>
           </t:template>
@@ -60,7 +60,7 @@
           id="State"
           width="11rem"
           sortProperty="State">
-          <m:Label text="State"/>
+          <m:Label text="Estado"/>
           <t:template>
             <m:Text text="{State}" wrapping="false"/>
           </t:template>
@@ -69,7 +69,7 @@
           id="Genre"
           width="11rem"
           sortProperty="Genre">
-          <m:Label text="Genre"/>
+          <m:Label text="Género"/>
           <t:template>
             <m:Text text="{Genre}" wrapping="false"/>
           </t:template>
@@ -78,7 +78,7 @@
           id="ReadingDate"
           width="11rem"
           sortProperty="ReadingDate">
-          <m:Label text="ReadingDate"/>
+          <m:Label text="Fecha de lectura"/>
           <t:template>
             <m:Text text="{
 								path: 'ReadingDate',
