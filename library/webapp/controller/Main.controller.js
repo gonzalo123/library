@@ -16,7 +16,7 @@ sap.ui.define([
 
 		onInit: function () {
 			this.setModel(new JSONModel(this.model))
-			const booksModel = new JSONModel(sap.ui.require.toUrl("library/data/books.json"));
+			const booksModel = new JSONModel(sap.ui.require.toUrl("library/data/books.json?x="+ Math.random()));
 			booksModel.attachRequestCompleted(this._onDataLoaded.bind(this));
 		},
 
