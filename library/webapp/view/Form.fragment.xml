@@ -1,22 +1,103 @@
 <c:FragmentDefinition
-        xmlns:m="sap.m"
-        xmlns:c="sap.ui.core"
-        xmlns:f="sap.ui.layout.form">
-  <f:SimpleForm>
-    <f:content>
-      <m:Label text="{i18n>CODIGO}"/>
-      <m:Select selectedKey="{/form1/idfabrica}"
-                items="{
-                  path: '/data/masterdata/fabricas',
-                  sorter: { path: 'nombrecompleto' }
-                }">
-        <c:Item text="{idfabrica} - {nombrecompleto}" key="{idfabrica}"/>
-      </m:Select>
-    </f:content>
-  </f:SimpleForm>
+  xmlns:m="sap.m"
+  xmlns:c="sap.ui.core"
+  xmlns:f="sap.ui.layout.form"
+>
+
+  <f:Form editable="true" class="sapUiSizeCompact">
+          <f:title>
+            <!--<c:Title text="" />-->
+          </f:title>
+          <f:layout>
+            <f:ResponsiveGridLayout
+              labelSpanXL="4"
+              labelSpanL="3"
+              labelSpanM="4"
+              labelSpanS="12"
+              adjustLabelSpan="false"
+              emptySpanXL="0"
+              emptySpanL="4"
+              emptySpanM="0"
+              emptySpanS="0"
+              columnsXL="2"
+              columnsL="1"
+              columnsM="1"
+              singleContainerFullSize="false"/>
+          </f:layout>
+          <f:formContainers>
+            <f:FormContainer title="">
+              <f:formElements>
+                <f:FormElement label="{i18n>TITLE}">
+                  <f:fields>
+                    <m:Input
+                      value="{/form/title}"
+                      showValueHelp="false"
+                    >
+                    </m:Input>
+                  </f:fields>
+                </f:FormElement>
+                <f:FormElement label="{i18n>AUTHOR}">
+                  <f:fields>
+                    <m:ComboBox
+                      selectedKey="{/form/author}"
+                      id="author"
+                      items="{
+                        path: '/masterdata/authors',
+                        sorter: {
+                          path: 'value',
+                          descending: false
+                        }
+                        }">
+                      <c:Item text="{value}" key="{value}"/>
+                    </m:ComboBox>
+                  </f:fields>
+                </f:FormElement>
+                <f:FormElement label="{i18n>STATE}">
+                  <f:fields>
+                    <m:ComboBox
+                      selectedKey="{/form/state}"
+                      items="{
+                        path: '/masterdata/states',
+                        sorter: {
+                          path: 'value',
+                          descending: false
+                        }
+                        }">
+                      <c:Item text="{value}" key="{value}"/>
+                    </m:ComboBox>
+                  </f:fields>
+                </f:FormElement>
+                <f:FormElement label="{i18n>GENRE}">
+                  <f:fields>
+                    <m:ComboBox
+                      selectedKey="{/form/genre}"
+                      items="{
+                        path: '/masterdata/genres',
+                        sorter: {
+                          path: 'genre',
+                          descending: false
+                        }
+                        }">
+                      <c:Item text="{value}" key="{value}"/>
+                    </m:ComboBox>
+                  </f:fields>
+                </f:FormElement>
+              </f:formElements>
+            </f:FormContainer>
+          </f:formContainers>
+        </f:Form>
+
   <m:Toolbar>
-    <m:Button text="{i18n>CLEAR}" press="handleCancel"/>
+    <m:Button
+      text="{i18n>CLEAN}"
+      type="Reject"
+      icon="sap-icon://decline"
+      press="handleCleanSelected"/>
     <m:ToolbarSpacer/>
-    <m:Button text="{i18n>FIND}" type="Emphasized" press="handleFind"/>
+    <m:Button
+      text="{i18n>OK}"
+      icon="sap-icon://search"
+      type="Emphasized"
+      press="handleSearchSelected"/>
   </m:Toolbar>
 </c:FragmentDefinition>

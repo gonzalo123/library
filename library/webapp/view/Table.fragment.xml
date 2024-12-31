@@ -2,25 +2,40 @@
   xmlns:m="sap.m"
   xmlns:mvc="sap.ui.core.mvc"
   xmlns:t="sap.ui.table"
+  xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1"
   controllerName="ris.controller.Main">
   <m:VBox class="sapUiSizeCompact">
 
     <t:Table
       id="table"
       selectionMode="None"
-      rows="{/Books}"
-      sort="sortDeliveryDate"
+      rows="{
+            path: '/books',
+            sorter: {
+              path: 'ReadingDate',
+              descending: true
+            }
+            }"
+      sort="ReadingDate"
       ariaLabelledBy="title">
       <t:extension>
       </t:extension>
       <t:columns>
         <t:Column
           id="Id"
-          width="3rem"
+          width="4rem"
           sortProperty="Id">
-          <m:Label text="Id"/>
           <t:template>
-            <m:Text text="{Id}" wrapping="false"/>
+            <m:Button
+              press="handleBookPress"
+              icon="sap-icon://course-book"
+              app:Title="{Title}"
+              app:Author="{Author}"
+              app:State="{State}"
+              app:Genre="{Genre}"
+              app:ReadingDate="{ReadingDate}"
+              app:Image="{Image}"
+            />
           </t:template>
         </t:Column>
         <t:Column
@@ -42,12 +57,12 @@
           </t:template>
         </t:Column>
         <t:Column
-          id="Status"
+          id="State"
           width="11rem"
-          sortProperty="Status">
-          <m:Label text="Status"/>
+          sortProperty="State">
+          <m:Label text="State"/>
           <t:template>
-            <m:Text text="{Status}" wrapping="false"/>
+            <m:Text text="{State}" wrapping="false"/>
           </t:template>
         </t:Column>
         <t:Column
