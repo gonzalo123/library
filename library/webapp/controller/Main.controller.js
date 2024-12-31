@@ -47,6 +47,7 @@ sap.ui.define([
 
 			this.oDefaultDialog = new Dialog({
 				title: title,
+				contentAlign: "Center",
 				content: new sap.m.Image({
 					src: `./data/cover/${image}`,
 					width: "300px"
