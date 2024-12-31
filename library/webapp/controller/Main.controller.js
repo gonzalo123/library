@@ -48,7 +48,7 @@ sap.ui.define([
 			this.oDefaultDialog = new Dialog({
 				title: title,
 				content: new sap.m.Image({
-					src: `/data/cover/${image}`,
+					src: `./data/cover/${image}`,
 					width: "300px"
 				}),
 				endButton: new Button({
