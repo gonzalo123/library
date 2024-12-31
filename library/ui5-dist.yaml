@@ -13,5 +13,6 @@ framework:
     - name: sap.m
     - name: sap.f
     - name: sap.ui.table
+    - name: sap.ui.table.utils
     - name: sap.ui.core
     - name: themelib_sap_horizon
