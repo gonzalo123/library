@@ -7,35 +7,23 @@ import requests
 BASE_DIR = Path(__file__).resolve().parent
 
 def descargar_imagen(url):
-    # Obtener el nombre del archivo de la URL
     nombre_archivo = url.split("/")[-1]
-
-    # Crear la ruta completa del archivo
     ruta_archivo = BASE_DIR / 'cover' / nombre_archivo
 
-    # Descargar la imagen
     respuesta = requests.get(url)
-
-    # Guardar la imagen en la carpeta destino
     with open(ruta_archivo, 'wb+') as archivo:
         archivo.write(respuesta.content)
 
     return nombre_archivo
 
-# Cargar y analizar el archivo RSS
 tree = ET.parse('x.rss')
 root = tree.getroot()
 
-# Espacio de nombres
 namespace = {'atom': 'http://www.w3.org/2005/Atom'}
 
-# Extraer los elementos de los libros
 items = root.findall('.//item')
-
-# Crear una lista para almacenar los datos
 books = []
 
-# Recorrer los elementos y extraer el título, el autor y la URL de la imagen
 for item in items:
     title = item.find('title').text
     author = item.find('author_name').text
@@ -48,7 +36,6 @@ for item in items:
         formatted_date = None
     books.append((title, author, image_url, formatted_date))
 
-# Imprimir la tabla
 
 conn = sqlite3.connect('db.sqlite')
 cursor = conn.cursor()
@@ -58,7 +45,7 @@ for book in books:
     book_data = {
         'title': book[0],
         'author': book[1],
-        'state': 'Leído',
+        'state': 'Parcialmente leído',
         'reading_date': book[3],
         'image': nombre_archivo,
     }
