@@ -49,10 +49,12 @@ for book in books:
         'reading_date': book[3],
         'image': nombre_archivo,
     }
+    """
     cursor.execute('''
         INSERT INTO books (Title, Author, State, ReadingDate, Image)
         VALUES (:title, :author, :state, :reading_date, :image)
     ''', book_data)
+    """
     print(book_data)
 conn.commit()
 conn.close()

@@ -2,539 +2,499 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
-    <title>Gonzalo's bookshelf: parcialmente-leído</title>
+    <title>Gonzalo's bookshelf: to-read</title>
     <copyright><![CDATA[Copyright (C) 2025 Goodreads Inc. All rights reserved.]]>
     </copyright>
-    <link><![CDATA[https://www.goodreads.com/review/list_rss/89778400?key=uE1Z6v_EoWIFDO-FzQKaVJCb5oPy2eYTxJwAX8XSuecCnWI5&shelf=parcialmente-le%C3%ADdo]]></link>
-    <atom:link href="https://www.goodreads.com/review/list_rss/89778400?key=uE1Z6v_EoWIFDO-FzQKaVJCb5oPy2eYTxJwAX8XSuecCnWI5&amp;shelf=parcialmente-le%C3%ADdo" rel="self" type="application/rss+xml" />
-    <description><![CDATA[Gonzalo's bookshelf: parcialmente-leído]]></description>
+    <link><![CDATA[https://www.goodreads.com/review/list_rss/89778400?key=uE1Z6v_EoWIFDO-FzQKaVJCb5oPy2eYTxJwAX8XSuecCnWI5&shelf=to-read]]></link>
+    <atom:link href="https://www.goodreads.com/review/list_rss/89778400?key=uE1Z6v_EoWIFDO-FzQKaVJCb5oPy2eYTxJwAX8XSuecCnWI5&amp;shelf=to-read" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Gonzalo's bookshelf: to-read]]></description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Dec 2024 10:23:36 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:16:11 -0800</lastBuildDate>
     <ttl>60</ttl>
     <image>
-      <title>Gonzalo's bookshelf: parcialmente-leído</title>
-      <link><![CDATA[https://www.goodreads.com/review/list_rss/89778400?key=uE1Z6v_EoWIFDO-FzQKaVJCb5oPy2eYTxJwAX8XSuecCnWI5&shelf=parcialmente-le%C3%ADdo]]></link>
+      <title>Gonzalo's bookshelf: to-read</title>
+      <link><![CDATA[https://www.goodreads.com/review/list_rss/89778400?key=uE1Z6v_EoWIFDO-FzQKaVJCb5oPy2eYTxJwAX8XSuecCnWI5&shelf=to-read]]></link>
       <width>144</width>
       <height>41</height>
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
 
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144660594?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 10:23:36 -0800]]></pubDate>
-    <title><![CDATA[Lechuzas a Atenas: Pervivencia hoy del refranero griego antiguo]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144660594?utm_medium=api&utm_source=rss]]></link>
-    <book_id>60867812</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650733780l/60867812._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650733780l/60867812._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650733780l/60867812._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650733780l/60867812._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[En este libro se recogen y comentan refranes y expresiones populares que utilizaban los hablantes de griego de hace dos mil años. Muchos de ellos («poner el colofón», «ser un sibarita», «del árbol caído todos hacen leña», «una golondrina no hace verano», «vista de lince», «lágrimas de cocodrilo» y tantos otros) permanecen vivos todavía hoy en las lenguas modernas, sobreviviendo al paso del tiempo y a los continuos y profundos cambios sociopolíticos, culturales, religiosos y económicos; y su supervivencia en muchas lenguas europeas demuestra que nuestra cultura, por encima de diferencias locales, regionales o nacionales, es fundamentalmente una unidad, que hunde sus raíces en la Antigüedad grecolatina (e incluso en algún caso podemos remontarnos dos mil años más, hasta los antiguos sumerios y asirios que ya empleaban refranes todavía vivos en nuestras lenguas de hoy). <br /><br />Recogemos y comentamos también los equivalentes griegos antiguos de nuestros refranes y expresiones actuales, de manera que el lector podrá saber cómo expresaban proverbialmente los griegos las ideas que nosotros queremos transmitir cuando decimos «a falta de pan buenas son tortas», «no sabe hacer la o con un canuto», «es de los tiempos de Maricastaña» o «murió hasta el apuntador», e igualmente conocerá quiénes eran los Picios, San Luises, Fittipaldis, Abundios, Perico de los Palotes o leperos de la antigua Grecia, es decir, los representantes proverbiales de la fealdad, la belleza, la rapidez, la estupidez o cualquier otra cualidad o comportamiento humanos.]]></book_description>
-    <book id="60867812">
-      <num_pages>224</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144329175?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 09:16:11 -0800]]></pubDate>
+    <title>El anticristo</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144329175?utm_medium=api&utm_source=rss]]></link>
+    <book_id>20352418</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388392359l/20352418._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388392359l/20352418._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388392359l/20352418._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388392359l/20352418.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Es una de las últimas obras del pensador germano Friedrich Nietzsche (1844 - 1900), no publicada hasta 1895, entre momentos lúcidos y de enajenación. En ella el autor reivindica, por encima de la moral decadente del Cristianismo, la virtud del espíritu libre. Sólo el hombre fuerte tenía el derecho a existir.<br /><br />El estilo del renacimiento será la voluntad de poder. La virtud cristiana, nacida de la moral de la compasión debería suprimirse. ¿Cómo siguen los Cristianos a un líder que se dejó matar y qué han hecho ellos para defenderle? El lector es bien libre de tomar partido o no por esta obra demoledora.]]></book_description>
+    <book id="20352418">
+      <num_pages>126</num_pages>
     </book>
-    <author_name>Fernando García Romero</author_name>
-    <isbn></isbn>
+    <author_name>Friedrich Nietzsche</author_name>
+    <isbn>8415089341</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 10:23:36 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 10:23:36 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:16:11 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:16:11 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>3.75</average_rating>
+    <average_rating>3.64</average_rating>
+    <book_published>1895</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/20352418-el-anticristo?utm_medium=api&amp;utm_source=rss"><img alt="El anticristo" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388392359l/20352418._SY75_.jpg" /></a><br/>
+                                      author: Friedrich Nietzsche<br/>
+                                      name: Gonzalo<br/>
+                                      average rating: 3.64<br/>
+                                      book published: 1895<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2024/12/31<br/>
+                                      shelves: to-read<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144325645?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 09:15:30 -0800]]></pubDate>
+    <title>El crepúsculo de los ídolos</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144325645?utm_medium=api&utm_source=rss]]></link>
+    <book_id>62623583</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663482267l/62623583._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663482267l/62623583._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663482267l/62623583._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663482267l/62623583._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[En el último periodo de su vida lúcida, Nietzsche resume su lucha contra las falsas concepciones que conforman la tradición de la filosofía, la moral y la religión de Occidente. Para llevar a cabo tal ataque, el filósofo decide analizar aquellos ídolos que han aparecido a lo largo de esa tradición como valores supremos que guían y regulan un tipo de comportamiento que se corresponde con un modo de vida. Esos ídolos, cuando se les toca con el martillo, suenan a hueco, no son nada más que fuegos fatuos que el propio hombre ha introducido en la realidad y que se desvanecen ante la sola mirada atenta de quien los contempla con atención y sensatez. El crepúsculo de los ídolos es el ocaso de los grandes valores “eternos” que han dominado una civilización y una forma de vida, un ocaso que tal vez preceda a una nueva aurora llena de promesas, a un cambio de todos los valores.]]></book_description>
+    <book id="62623583">
+      <num_pages>128</num_pages>
+    </book>
+    <author_name>Friedrich Nietzsche</author_name>
+    <isbn>8419087556</isbn>
+    <user_name>Gonzalo</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:15:30 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:15:30 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
+    <user_review></user_review>
+    <average_rating>3.80</average_rating>
     <book_published></book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/60867812-lechuzas-a-atenas?utm_medium=api&amp;utm_source=rss"><img alt="Lechuzas a Atenas: Pervivencia hoy del refranero griego antiguo" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650733780l/60867812._SY75_.jpg" /></a><br/>
-                                      author: Fernando García Romero<br/>
+      <a href="https://www.goodreads.com/book/show/62623583-el-crep-sculo-de-los-dolos?utm_medium=api&amp;utm_source=rss"><img alt="El crepúsculo de los ídolos" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663482267l/62623583._SY75_.jpg" /></a><br/>
+                                      author: Friedrich Nietzsche<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 3.75<br/>
+                                      average rating: 3.80<br/>
                                       book published: <br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144339372?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 09:18:22 -0800]]></pubDate>
-    <title>¡El gran Pan ha muerto!</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144339372?utm_medium=api&utm_source=rss]]></link>
-    <book_id>63233789</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667740935l/63233789._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667740935l/63233789._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667740935l/63233789._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667740935l/63233789._SX318_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Pan es el dios del todo, del miedo y de la risa. Medio divino, medio humano. Los griegos lo consideraban el señor del universo, pero también un sátiro colérico y lascivo. De su mitología nació Peter Pan y Fernando Arrabal lo adoptó como santo patrón de lo confuso y lo ridículo. Ernesto Castro se sitúa en esa tradición al tomar a Pan como metáfora de una época, la nuestra, que convulsiona entre el nihilismo irónico de las redes sociales y el pánico a la derecha iliberal de Marine Le Pen o Vladímir Putin.<br />El autor vuelve sobre libros que nunca concluyó; artículos desperdigados por cajones, pen drives y revistas; prólogos, obituarios y diarios de lectura que ahora componen esta obra inédita. Un conjunto de palimpsestos, textos reescritos a lo largo del tiempo, que analizan la actualidad a partir de lo que murió en los últimos años: los sueños de los milénials y del 15M, los usos y costumbres de la pandemia, la masculinidad convencional, el posmodernismo filosófico, la dialéctica entre Madrid y Barcelona, la juventud y el abuelo materno del escritor.<br />La prosa lúcida y mordaz de Ernesto Castro le convierte en uno de los ensayistas más pasmosos del presente. Véase el pulso literario y la ambiciosa estructura de esta obra, compuesta como una divertida torre de Jenga donde cada pieza soporta y a la vez desequilibra a las demás. O como dice Miguel de Unamuno en el prólogo, que lleva un siglo buscando el libro idóneo para prologar: «Si Dios nos toma el pelo a los hombres a lo divino, ¿no podemos nosotros, los hombres, tomarnos unos a otros el pelo a lo humano?».]]></book_description>
-    <book id="63233789">
-      <num_pages>416</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144311206?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 09:12:34 -0800]]></pubDate>
+    <title>Tratado sobre la tolerancia</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144311206?utm_medium=api&utm_source=rss]]></link>
+    <book_id>33301378</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481335450l/33301378._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481335450l/33301378._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481335450l/33301378._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481335450l/33301378.jpg]]></book_large_image_url>
+    <book_description><![CDATA[En 1685, Luis XIV revoca el edicto de Nantes, que permitía la libertad de cultos en Francia. En este clima de intolerancia religiosa, Voltaire escribe el Tratado sobre la tolerancia con ocasión de la muerte de Jean Calas y anima al resto de los filósofos a hacer la guerra sistemáticamente, al Infame, es decir, a cualquier religión, pero, sobre todo, a la católica de Roma. Voltaire, a diferencia de Rousseau, pretende pasar de una oposición meramente intelectual a una lucha activa centrada en los casos particulares. El caso de Jean Calas, comerciante jansenista que fue declarado culpable en un juicio manipulado, y ajusticiado por un delito no cometido, iba a ser la primera aplicación de esa consigna que daba al resto de los filósofos. Voltaire organiza los datos de que dispone en una estrategia de combate sin antecedentes en la historia y que sólo puede compararse con una moderna campaña de prensa. La historia de los Calas es, en el Tratado sobre la tolerancia, un trampolín para hacer un juicio al fanatismo: de los detalles particulares Voltaire se eleva a las alturas bíblicas, históricas, metafísicas y conceptuales sin olvidar el recurso a los detalles del sentimiento personal. El autor se encarna en los perseguidos para buscar el triunfo final de la filosofía y de las luces sobre el Infame.]]></book_description>
+    <book id="33301378">
+      <num_pages>126</num_pages>
     </book>
-    <author_name>Ernesto Castro</author_name>
-    <isbn>8417496696</isbn>
+    <author_name>Voltaire</author_name>
+    <isbn>8415171625</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:18:22 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:18:16 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:12:34 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:12:34 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.08</average_rating>
-    <book_published>2022</book_published>
+    <average_rating>4.17</average_rating>
+    <book_published>1763</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/63233789-el-gran-pan-ha-muerto?utm_medium=api&amp;utm_source=rss"><img alt="¡El gran Pan ha muerto!" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667740935l/63233789._SX50_.jpg" /></a><br/>
-                                      author: Ernesto Castro<br/>
+      <a href="https://www.goodreads.com/book/show/33301378-tratado-sobre-la-tolerancia?utm_medium=api&amp;utm_source=rss"><img alt="Tratado sobre la tolerancia" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481335450l/33301378._SY75_.jpg" /></a><br/>
+                                      author: Voltaire<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 4.08<br/>
-                                      book published: 2022<br/>
+                                      average rating: 4.17<br/>
+                                      book published: 1763<br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144335158?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 09:17:39 -0800]]></pubDate>
-    <title><![CDATA[Discurso Del Metodo Meditaciones Metafísicas]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144335158?utm_medium=api&utm_source=rss]]></link>
-    <book_id>33145613</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480381040l/33145613._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480381040l/33145613._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480381040l/33145613._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480381040l/33145613._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[El cartesianismo hace mucho tiempo que murió. El pensamiento de Descartes, sin embargo, pervive y pervivirá mientras exista como guía de reflexión la libertad de pensar. Este principio constituye la más deliciosa fábula que el hombre pudo inventar, y eso se lo debe a la humanidad, en buena parte, a Descartes y, especialmente, a las dos obras que el lector tiene entre sus manos. Leer a Descartes es uno de los mejores ejercicios para mantener vivo el más importante impulso de la filosofía moderna: una duda previa absoluta, un escepticismo como punto de partida del genuino saber. Con todo, el principal mérito del que pasa por ser el primer racionalista oficial de la historia de la filosofía, ha consistido en su matizada crítica al pensamiento dogmático. Nada, efectivamente, puede ser aceptado en virtud de una autoridad cualquiera. Este héroe del pensamiento moderno, en palabras de Hegel, ha llevado a la filosofía por caminos apenas percibidos anteriormente, atreviéndose, por decirlos en palabras de Dalembert, a enseñar a las buenas cabezas a sacudirse el yugo de la escolástica, de la opinión, de la autoridad; en una palabra, de los prejuicios y de la barbarie y, con esta rebelión cuyos frutos recogemos hoy, ha hecho a la filosofía más esencial quizá que todos los que ésta debe a los ilustres sucesores de Descartes.]]></book_description>
-    <book id="33145613">
-      <num_pages>189</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144307633?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 09:11:52 -0800]]></pubDate>
+    <title>El mito de Sísifo</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144307633?utm_medium=api&utm_source=rss]]></link>
+    <book_id>2704427</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648644264l/2704427._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648644264l/2704427._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648644264l/2704427._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648644264l/2704427.jpg]]></book_large_image_url>
+    <book_description><![CDATA[La aparición casi simultánea —en 1942— de EL MITO DE SÍSIFO y «El extranjero» reveló al público el talento literario, la sensibilidad ética y la capacidad de reflexión teórica de Albert Camus (1913-1960), para quien narrativa, teatro, ensayo y periodismo fueron medios alternativos para indagar sobre la complejidad, la ambigüedad y la riqueza de la condición humana y para plantear y debatir los grandes problemas morales de nuestra época. La obra se compone de cuatro capítulos y un apéndice («La esperanza y lo absurdo en la obra de Franz Kafka») que estudian, desde enfoques cercanos al existencialismo, esa «sensibilidad absurda» que parece dominar gran parte del siglo xx.]]></book_description>
+    <book id="2704427">
+      <num_pages>179</num_pages>
     </book>
-    <author_name>René Descartes</author_name>
-    <isbn>8467034637</isbn>
+    <author_name>Albert Camus</author_name>
+    <isbn>8420636975</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:17:39 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:17:25 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:11:52 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:11:52 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>3.78</average_rating>
-    <book_published>1637</book_published>
+    <average_rating>4.16</average_rating>
+    <book_published>1942</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/33145613-discurso-del-metodo-meditaciones-metaf-sicas?utm_medium=api&amp;utm_source=rss"><img alt="Discurso Del Metodo Meditaciones Metafísicas" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480381040l/33145613._SY75_.jpg" /></a><br/>
-                                      author: René Descartes<br/>
+      <a href="https://www.goodreads.com/book/show/2704427-el-mito-de-s-sifo?utm_medium=api&amp;utm_source=rss"><img alt="El mito de Sísifo" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648644264l/2704427._SY75_.jpg" /></a><br/>
+                                      author: Albert Camus<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 3.78<br/>
-                                      book published: 1637<br/>
+                                      average rating: 4.16<br/>
+                                      book published: 1942<br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144284376?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 09:07:15 -0800]]></pubDate>
-    <title>Ensayos filosóficos</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144284376?utm_medium=api&utm_source=rss]]></link>
-    <book_id>41092636</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919095l/41092636._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919095l/41092636._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919095l/41092636._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919095l/41092636.jpg]]></book_large_image_url>
-    <book_description><![CDATA[No sólo los especialistas en filosofía, sino también las personas interesadas en los problemas del hombre y su futuro, recibieron periódicos testimonios de la capacidad de Bertrand Russell (1872-1970) para enfrentarse, a lo largo de su dilatada y fecunda vida, con todo tipo de cuestiones, desde las muy técnicas de la teoría del conocimiento o la filosofía matemática, hasta las de la justicia y moralidad de los regímenes políticos, de los conflictos bélicos y de los sistemas sociales. Este volumen de "Ensayos filosóficos" reúne varios escritos sobre la ética, la historia y la verdad, de los que revisten singular interés los trabajos dedicados a la exposición y análisis de las concepciones acerca de la verdad y falsedad tal como fueron expuestas por William James, y a la crítica general del pragmatismo.]]></book_description>
-    <book id="41092636">
-      <num_pages>224</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144300532?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 09:10:29 -0800]]></pubDate>
+    <title>El nacimiento de la tragedia</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144300532?utm_medium=api&utm_source=rss]]></link>
+    <book_id>21219632</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394104400l/21219632._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394104400l/21219632._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394104400l/21219632._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394104400l/21219632.jpg]]></book_large_image_url>
+    <book_description><![CDATA[El nacimiento de la tragedia en el espíritu de la música (título original en alemán: Die Geburt der Tragödie aus dem Geiste der Musik) es un libro escrito entre 1871 y 1872 por el filósofo alemán Friedrich Nietzsche.<br />Este primer libro del filósofo alemán Friedrich Wilhelm Nietzsche fue muy controvertido en su tiempo ya que no sólo expone de forma sistemática el contenido de su estudio de los griegos, sino que también empieza a moldear su filosofía, que ya estaba influida por los pensamientos de Schopenhauer y por la música y el concepto de la misma de Richard Wagner. En sentido nietzscheano, este libro sirve entre otras para explicar la convivencia de la tragedia en la antigua Grecia (concepto distinto al que tenemos hoy de tragedia), la afirmación recíproca de la vida y el eterno retorno.]]></book_description>
+    <book id="21219632">
+      <num_pages>332</num_pages>
     </book>
-    <author_name>Bertrand Russell</author_name>
-    <isbn>8491810579</isbn>
+    <author_name>Friedrich Nietzsche</author_name>
+    <isbn>8420671754</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:07:15 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:07:14 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 09:10:29 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 09:10:29 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>3.58</average_rating>
-    <book_published></book_published>
+    <average_rating>3.95</average_rating>
+    <book_published>1871</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/41092636-ensayos-filos-ficos?utm_medium=api&amp;utm_source=rss"><img alt="Ensayos filosóficos" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919095l/41092636._SY75_.jpg" /></a><br/>
-                                      author: Bertrand Russell<br/>
+      <a href="https://www.goodreads.com/book/show/21219632-el-nacimiento-de-la-tragedia?utm_medium=api&amp;utm_source=rss"><img alt="El nacimiento de la tragedia" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394104400l/21219632._SY75_.jpg" /></a><br/>
+                                      author: Friedrich Nietzsche<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 3.58<br/>
-                                      book published: <br/>
+                                      average rating: 3.95<br/>
+                                      book published: 1871<br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144199689?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:49:52 -0800]]></pubDate>
-    <title><![CDATA[La teología de los primeros filósofos griegos]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144199689?utm_medium=api&utm_source=rss]]></link>
-    <book_id>214122458</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717260852l/214122458._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717260852l/214122458._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717260852l/214122458._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717260852l/214122458._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<i>Librarian note: An alternative cover for this ISBN can be found <a href="https://www.goodreads.com/book/show/362389" rel="nofollow noopener">here</a>.</i><br /><br />Ensayo clásico, que ha determinado por su esclarecedor punto de partida el conocimiento de los orígenes de la filosofía griega.]]></book_description>
-    <book id="214122458">
-      <num_pages>267</num_pages>
-    </book>
-    <author_name>Werner Wilhelm Jaeger</author_name>
-    <isbn>9681606310</isbn>
-    <user_name>Gonzalo</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:49:52 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:48:51 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
-    <user_review></user_review>
-    <average_rating>5.00</average_rating>
-    <book_published>1936</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/214122458-la-teolog-a-de-los-primeros-fil-sofos-griegos?utm_medium=api&amp;utm_source=rss"><img alt="La teología de los primeros filósofos griegos" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717260852l/214122458._SY75_.jpg" /></a><br/>
-                                      author: Werner Wilhelm Jaeger<br/>
-                                      name: Gonzalo<br/>
-                                      average rating: 5.00<br/>
-                                      book published: 1936<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144154677?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:39:42 -0800]]></pubDate>
-    <title>Ética a Nicómaco</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144154677?utm_medium=api&utm_source=rss]]></link>
-    <book_id>197218278</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692405480l/197218278._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692405480l/197218278._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692405480l/197218278._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692405480l/197218278._SY475_.jpg]]></book_large_image_url>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144237944?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:57:39 -0800]]></pubDate>
+    <title>Aprender a pensar: Plotino</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144237944?utm_medium=api&utm_source=rss]]></link>
+    <book_id>58172328</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622087611l/58172328._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622087611l/58172328._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622087611l/58172328._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622087611l/58172328._SX318_.jpg]]></book_large_image_url>
     <book_description></book_description>
-    <book id="197218278">
-      <num_pages>0</num_pages>
+    <book id="58172328">
+      <num_pages>144</num_pages>
     </book>
-    <author_name>Aristóteles</author_name>
-    <isbn>1535511729</isbn>
+    <author_name>Oriol Ponsatí-Murlà</author_name>
+    <isbn>8447387313</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:39:42 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:39:42 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:57:39 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:57:39 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>4.50</average_rating>
+    <average_rating>3.67</average_rating>
     <book_published></book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/197218278-tica-a-nic-maco?utm_medium=api&amp;utm_source=rss"><img alt="Ética a Nicómaco" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692405480l/197218278._SY75_.jpg" /></a><br/>
-                                      author: Aristóteles<br/>
+      <a href="https://www.goodreads.com/book/show/58172328-aprender-a-pensar?utm_medium=api&amp;utm_source=rss"><img alt="Aprender a pensar: Plotino" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622087611l/58172328._SX50_.jpg" /></a><br/>
+                                      author: Oriol Ponsatí-Murlà<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 4.50<br/>
+                                      average rating: 3.67<br/>
                                       book published: <br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144152398?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:39:13 -0800]]></pubDate>
-    <title><![CDATA[Vidas y opiniones de los filósofos ilustres]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144152398?utm_medium=api&utm_source=rss]]></link>
-    <book_id>18715163</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382653485l/18715163._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382653485l/18715163._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382653485l/18715163._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382653485l/18715163.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Testimonio insustituible sobre la tradición de las escuelas filosóficas griegas al ser el único compendio de este tipo que ha llegado hasta nosotros, las <i>Vidas y opiniones de los filósofos más ilustres </i>, obra compuesta en la primera mitad del siglo III por Diógenes Laercio, fue desde principios del siglo XIX objeto de reproches, sobre todo por parte de los filósofos, que no encontraban en ella la historia de la filosofía antigua que habrían querido encontrar. Sin embargo, llevado por aficiones más filológicas que filosóficas, su autor -como aclara en su introducción Carlos García Gual, responsable de esta primera traducción íntegra de la obra desde la que hiciera Ortiz y Sanz en 1792- sólo pretendió registrar para la posteridad el espléndido legado sapiencial de los ilustres filósofos griegos, tarea que llevó a cabo en un texto que resulta uno de los más atractivos del legado helénico por su información minuciosa y su amenidad.]]></book_description>
-    <book id="18715163">
-      <num_pages>664</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144158341?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:40:26 -0800]]></pubDate>
+    <title>Mitos</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144158341?utm_medium=api&utm_source=rss]]></link>
+    <book_id>41092775</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919666l/41092775._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919666l/41092775._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919666l/41092775._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919666l/41092775.jpg]]></book_large_image_url>
+    <book_description><![CDATA[A lo largo de sus muchos diálogos, Platón recurrió a menudo a la elaboración de mitos a fin de ilustrar mejor mediante ellos el concepto o la idea que quería expresar. Su utilización de este ancestral recurso didáctico que se remonta a los principios del pensamiento humano y que destaca por su fuerza poética y plástica y su fuerza de seducción intelectual habría de hacer especial fortuna a lo largo de la transmisión de la filosofía, y muy especialmente en el caso de algunos de ellos, como el célebre "mito de la caverna", el del Andrógino (origen de la noción de "la media naranja") o el del continente Atlántida, raíz de una fecunda veta en diversos ámbitos de la cultura. "Mitos" reúne en un solo volumen todos aquellos pasajes más relevantes en los que Platón se sirvió de este eficaz recurso metafórico.<br /><br />Prólogo de Carlos García Gual]]></book_description>
+    <book id="41092775">
+      <num_pages>168</num_pages>
     </book>
-    <author_name>Diogenes Laertius</author_name>
-    <isbn>8420676977</isbn>
+    <author_name>Platón</author_name>
+    <isbn>8491048251</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:39:13 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:39:12 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:40:26 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:40:26 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>3.94</average_rating>
-    <book_published>250</book_published>
+    <average_rating>3.50</average_rating>
+    <book_published>1970</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/18715163-vidas-y-opiniones-de-los-fil-sofos-ilustres?utm_medium=api&amp;utm_source=rss"><img alt="Vidas y opiniones de los filósofos ilustres" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382653485l/18715163._SY75_.jpg" /></a><br/>
-                                      author: Diogenes Laertius<br/>
+      <a href="https://www.goodreads.com/book/show/41092775-mitos?utm_medium=api&amp;utm_source=rss"><img alt="Mitos" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533919666l/41092775._SY75_.jpg" /></a><br/>
+                                      author: Platón<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 3.94<br/>
-                                      book published: 250<br/>
+                                      average rating: 3.50<br/>
+                                      book published: 1970<br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144151346?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:39:00 -0800]]></pubDate>
-    <title>Retórica</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144151346?utm_medium=api&utm_source=rss]]></link>
-    <book_id>23596717</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416582720l/23596717._SX50_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416582720l/23596717._SX50_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416582720l/23596717._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416582720l/23596717.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<br /> This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. <br /><br />This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.<br /><br />As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.<br /><br />]]></book_description>
-    <book id="23596717">
-      <num_pages>346</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144143981?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:37:30 -0800]]></pubDate>
+    <title><![CDATA[Grecia para todos (Spanish Edition)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144143981?utm_medium=api&utm_source=rss]]></link>
+    <book_id>62109998</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661707037l/62109998._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661707037l/62109998._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661707037l/62109998._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661707037l/62109998._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[La historia de la antigua Grecia, su cultura y su legado en un relato atractivo para todos los públicos. «Una invitación a un viaje imaginario y sentimental a la Grecia antigua, la cual persiste muy viva y ha orientado con audaz impulso nuestros modos de pensar y estar en el mundo». La civilización griega dejó un importante legado entre nosotros, aunque muchas veces ignoramos su procedencia. En un tono ameno y accesible para todos los lectores, Carlos García Gual cuenta cómo nació la civilización griega, la rivalidad entre Atenas y Esparta, las luchas por la hegemonía en el Mediterráneo, el desarrollo de la polis y la democracia, del pensamiento, la filosofía y las ciencias; el arte griego, las relaciones sociales y familiares, la mitología, la literatura y hasta los juegos atléticos que hoy imitamos. En  Grecia para todos  descubrimos aquellas cosas en las que los griegos fueron pioneros y que aún perduran entre nosotros, con sus semejanzas y diferencias, incluso en las palabras con que las democracia, olimpiadas, filosofía, historia, teología, etc. Estas páginas quieren ser una invitación a un viaje imaginario y sentimental a esa Grecia que persiste muy viva en variadas imágenes del arte y la cultura, que pervive latente en muchísimos términos de nuestra lengua y que ha orientado con audaz impulso nuestros modos de pensar y estar en el mundo.]]></book_description>
+    <book id="62109998">
+      <num_pages>192</num_pages>
     </book>
-    <author_name>Aristotle</author_name>
-    <isbn>8420686204</isbn>
+    <author_name>Carlos Garcia</author_name>
+    <isbn>6075692606</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:39:00 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:38:59 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.09</average_rating>
-    <book_published>-322</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/23596717-ret-rica?utm_medium=api&amp;utm_source=rss"><img alt="Retórica" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416582720l/23596717._SX50_.jpg" /></a><br/>
-                                      author: Aristotle<br/>
-                                      name: Gonzalo<br/>
-                                      average rating: 4.09<br/>
-                                      book published: -322<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144142206?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:37:08 -0800]]></pubDate>
-    <title><![CDATA[Apología. Banquete. Recuerdos de Sócrates]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144142206?utm_medium=api&utm_source=rss]]></link>
-    <book_id>36222956</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505151985l/36222956._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505151985l/36222956._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505151985l/36222956._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505151985l/36222956._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Aunque a menudo ensombrecido por las figuras de Platón y de Tucídides, JENOFONTE (ca. 430-ca.. 355 a.C.) de cuya movida existencia es testimonio, sin ir más lejos, su conocida «Anábasis» (BT 8281) es, sin embargo, uno de los autores más destacados del mundo griego. Traducido y prologado por José Antonio Caballero López, el presente volumen reúne sus obras relacionadas con Sócrates, de quien, como Platón, fue discípulo. Como la platónica (BT 8268), la APOLOGÍA narra los últimos días del maestro; BANQUETE rememora uno de estos actos de camaradería, no se sabe si real o ficticio, en el que participan Sócrates y sus amigos; RECUERDOS DE SÓCRATES, en fin, refiere hasta cuarenta y nueve conversaciones del filósofo con otros tantos personajes sobre las cuestiones más variadas y se cuenta sin duda entre las fuentes principales para una aproximación a su singular figura.]]></book_description>
-    <book id="36222956">
-      <num_pages>328</num_pages>
-    </book>
-    <author_name>Xenophon</author_name>
-    <isbn>8420650730</isbn>
-    <user_name>Gonzalo</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:37:08 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:37:08 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.08</average_rating>
-    <book_published></book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/36222956-apolog-a-banquete-recuerdos-de-s-crates?utm_medium=api&amp;utm_source=rss"><img alt="Apología. Banquete. Recuerdos de Sócrates" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505151985l/36222956._SY75_.jpg" /></a><br/>
-                                      author: Xenophon<br/>
-                                      name: Gonzalo<br/>
-                                      average rating: 4.08<br/>
-                                      book published: <br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144134810?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:35:39 -0800]]></pubDate>
-    <title>Diálogos II</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144134810?utm_medium=api&utm_source=rss]]></link>
-    <book_id>50523746</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579274955l/50523746._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579274955l/50523746._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579274955l/50523746._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579274955l/50523746._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Continuando con la ordenación cronológica que en líneas generales se ha consensuado para Platón, este segundo volumen recoge los siguientes diálogos socráticos, escritos muy probablemente después de su primer viaje a Sicilia y antes del segundo: Gorgias, Menéxeno, Eutidemo, Menón y Crátilo. Estas son obras en las que Platón deja atrás sus primeros textos para transitar hacia su plena madurez filosófica, política y literaria, y en las cuales la riqueza de los temas abordados y los recursos estilísticos para exponerlos se diversifican y dan un sensible salto cualitativo.]]></book_description>
-    <book id="50523746">
-      <num_pages>464</num_pages>
-    </book>
-    <author_name>Plato</author_name>
-    <isbn>8424939069</isbn>
-    <user_name>Gonzalo</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:35:39 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:35:38 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.45</average_rating>
-    <book_published>1985</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/50523746-di-logos-ii?utm_medium=api&amp;utm_source=rss"><img alt="Diálogos II" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579274955l/50523746._SY75_.jpg" /></a><br/>
-                                      author: Plato<br/>
-                                      name: Gonzalo<br/>
-                                      average rating: 4.45<br/>
-                                      book published: 1985<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144104482?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:29:24 -0800]]></pubDate>
-    <title><![CDATA[Pervivencia y actualidad de la cultura clásica]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144104482?utm_medium=api&utm_source=rss]]></link>
-    <book_id>177187411</book_id>
-    <book_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></book_image_url>
-    <book_small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></book_large_image_url>
-    <book_description></book_description>
-    <book id="177187411">
-      <num_pages>338</num_pages>
-    </book>
-    <author_name>Jesús García González</author_name>
-    <isbn>8433822594</isbn>
-    <user_name>Gonzalo</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:29:24 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:29:23 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
-    <user_review></user_review>
-    <average_rating>0.0</average_rating>
-    <book_published></book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/177187411-pervivencia-y-actualidad-de-la-cultura-cl-sica?utm_medium=api&amp;utm_source=rss"><img alt="Pervivencia y actualidad de la cultura clásica" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" /></a><br/>
-                                      author: Jesús García González<br/>
-                                      name: Gonzalo<br/>
-                                      average rating: 0.0<br/>
-                                      book published: <br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144047320?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:17:33 -0800]]></pubDate>
-    <title><![CDATA[En los márgenes del mito: Hibridaciones de la mitología clásica en la cultura de masas contemporánea]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144047320?utm_medium=api&utm_source=rss]]></link>
-    <book_id>60811514</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649942488l/60811514._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649942488l/60811514._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649942488l/60811514._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649942488l/60811514.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Los mitos grecorromanos sirven para explicar y reflexionar sobre aspectos de nuestro mundo contemporáneo, nuestros esquemas de valores y nuestras preocupaciones.<br />Quizás uno de los rasgos más distintivos de los mitos, aquello que los convierte en “clásicos”, es el de su capacidad para ser reinterpretados por culturas y sociedades diferentes de aquellas que los crearon, abriéndose a nuevos contextos y significados. ¿De qué modo los mitos grecorromanos sirven para explicar y reflexionar sobre aspectos de nuestro mundo contemporáneo? ¿Cómo se usan, reelaboran y reformulan en la actual cultura de masas? A partir del concepto de “hibridación”, este volumen se propone indagar en la amplia variedad de identidades liminales y en los márgenes que nos ofrece la cultura clásica: las de los seres monstruosos (Medusa, Medea, Lamia), en la frontera entre lo animal y lo humano (sátiros), lo masculino y lo femenino (Endimión, Tiresias), la vida y la muerte (Perséfone). Además, la mitología proporciona interesantes ejemplos de lo que hoy llamamos “sexualidades alternativas”, “géneros fluidos” y “utopías de género”. Una hibridación que también se refleja en la multitud de formatos explorados en este libro, tomando como referentes obras inspiradas en la mitología clásica: cine, series de televisión y fanfictions, puestas en escena, danza y performance, artes plásticas, literatura juvenil, cómic y novela gráfica, videojuegos y redes sociales. Con ello se ha querido poner de relieve las interferencias entre alta y baja cultura, entre cultura dominante y contracultura, entre normatividad y transgresión, y cómo esta condición híbrida puede ayudarnos a comprender qué pueden decirnos los modelos clásicos sobre nosotros mismos.]]></book_description>
-    <book id="60811514">
-      <num_pages>320</num_pages>
-    </book>
-    <author_name>Luis Unceta Gómez,</author_name>
-    <isbn>8413524334</isbn>
-    <user_name>Gonzalo</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:17:33 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:17:33 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:37:30 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:37:30 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
     <average_rating>4.00</average_rating>
     <book_published></book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/60811514-en-los-m-rgenes-del-mito?utm_medium=api&amp;utm_source=rss"><img alt="En los márgenes del mito: Hibridaciones de la mitología clásica en la cultura de masas contemporánea" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649942488l/60811514._SY75_.jpg" /></a><br/>
-                                      author: Luis Unceta Gómez,<br/>
+      <a href="https://www.goodreads.com/book/show/62109998-grecia-para-todos?utm_medium=api&amp;utm_source=rss"><img alt="Grecia para todos (Spanish Edition)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661707037l/62109998._SY75_.jpg" /></a><br/>
+                                      author: Carlos Garcia<br/>
                                       name: Gonzalo<br/>
                                       average rating: 4.00<br/>
                                       book published: <br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/7144029442?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 31 Dec 2024 08:13:43 -0800]]></pubDate>
-    <title><![CDATA[Conceptos fundamentales de la historia del arte]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/7144029442?utm_medium=api&utm_source=rss]]></link>
-    <book_id>49252508</book_id>
-    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576435183l/49252508._SY75_.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576435183l/49252508._SY75_.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576435183l/49252508._SX98_.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576435183l/49252508._SY475_.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Conceptos fundamentales de la historia del arte responde a la necesidad de ordenar y conceptuar la gran cantidad de hechos y datos que surgen en el estudio del arte y su evolución histórica. A través de un rico análisis comparativo entre obras del Renacimiento y del Barrco, el crítico suizo Heinrich W""lfflin (1864-1945) llega a la caracterización de los dos estilos por la generalización de sus diferencias, que formula por pares de conceptos contrapuestos: lo lineal enfrentado a lo pictórico, lo superficial a lo profundo, la forma abierta a la cerrada, la pluralidad frente a la unidad, la claridad absoluta ante su atenuación como intento de concentrar y dirigir la percepción. Estas diferencias caracterizan tanto el estilo personal de un artista como un estilo de época. W""lfflin intenta así establecer las pautas para una Historia del Arte en la que se pueda seguir en sus distintas fases la génesis de la visión moderna en todas sus manifestaciones: pintura, escultura, decoración y arquitectura. Un libro clásico y de utilidad permanente por el entrenamiento que, con su capacidad analítica, proporcionará no solo a los estudiosos del arte, sino a los que simplemente quieran aprender a disfrutar de él.]]></book_description>
-    <book id="49252508">
-      <num_pages>448</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144138075?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:36:19 -0800]]></pubDate>
+    <title>Acerca del alma</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144138075?utm_medium=api&utm_source=rss]]></link>
+    <book_id>57191195</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614125861l/57191195._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614125861l/57191195._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614125861l/57191195._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614125861l/57191195._SY475_.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<i>'The soul is, so to speak, the first principle of living things. We seek to contemplate and know its nature and substance'</i><br /><br />For the Pre-Socratic philosophers the soul was the source of movement and sensation, while for Plato it was the seat of being, metaphysically distinct from the body that it was forced temporarily to inhabit. Plato's student Aristotle was determined to test the truth of both these beliefs against the emerging sciences of logic and biology. His examination of the huge variety of living organisms - the enormous range of their behaviour, their powers and their perceptual sophistication - convinced him of the inadequacy both of a materialist reduction and of a Platonic sublimation of the soul. In De Anima, he sought to set out his theory of the soul as the ultimate reality of embodied form and produced both a masterpiece of philosophical insight and a psychology of perennially fascinating subtlety.<br /><br />Hugh Lawson-Tancred's masterly translation makes <i>De Anima</i> fully accessible to modern readers. In his introduction, he places Aristotle's theories at the heart of contemporary debates on the philosophy of life and being.]]></book_description>
+    <book id="57191195">
+      <num_pages>272</num_pages>
     </book>
-    <author_name>Heinrich Wölfflin</author_name>
-    <isbn>8467037849</isbn>
+    <author_name>Aristotle</author_name>
+    <isbn>8424939395</isbn>
     <user_name>Gonzalo</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:13:43 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:13:43 -0800]]></user_date_created>
-    <user_shelves>parcialmente-leído</user_shelves>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:36:19 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:36:18 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
     <user_review></user_review>
-    <average_rating>3.33</average_rating>
-    <book_published>1923</book_published>
+    <average_rating>4.10</average_rating>
+    <book_published>-350</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/49252508-conceptos-fundamentales-de-la-historia-del-arte?utm_medium=api&amp;utm_source=rss"><img alt="Conceptos fundamentales de la historia del arte" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576435183l/49252508._SY75_.jpg" /></a><br/>
-                                      author: Heinrich Wölfflin<br/>
+      <a href="https://www.goodreads.com/book/show/57191195-acerca-del-alma?utm_medium=api&amp;utm_source=rss"><img alt="Acerca del alma" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614125861l/57191195._SY75_.jpg" /></a><br/>
+                                      author: Aristotle<br/>
                                       name: Gonzalo<br/>
-                                      average rating: 3.33<br/>
-                                      book published: 1923<br/>
+                                      average rating: 4.10<br/>
+                                      book published: -350<br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2024/12/31<br/>
-                                      shelves: parcialmente-leído<br/>
+                                      shelves: to-read<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144054122?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:18:59 -0800]]></pubDate>
+    <title>Fábulas</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144054122?utm_medium=api&utm_source=rss]]></link>
+    <book_id>24761560</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422621035l/24761560._SY75_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422621035l/24761560._SY75_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422621035l/24761560._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422621035l/24761560.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Pertenecientes a un género antiquísimo y de duradera fortuna en nuestro ámbito cultural, las fábulas son composiciones generalmente breves que proporcionan una enseñanza práctica, un consejo moral o una regla de comportamiento. Pese a su carácter folclórico y popular y su difusión esencialmente oral, ya desde muy antiguo estos cuentecillos se atribuyeron en Grecia casi de forma sistemática a un personaje nebuloso, quizá incluso legendario, llamado Esopo. El presente volumen ofrece las versiones originales de estos textos, algunos de los cuales -como “La tortuga y la liebre”, “La zorra y las uvas” o “La cigarra y las hormigas”- han perdurado sin perder un ápice de vigor hasta nuestros días.]]></book_description>
+    <book id="24761560">
+      <num_pages>224</num_pages>
+    </book>
+    <author_name>Aesop</author_name>
+    <isbn>8420690007</isbn>
+    <user_name>Gonzalo</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:18:59 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:18:59 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
+    <user_review></user_review>
+    <average_rating>3.62</average_rating>
+    <book_published>-560</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/24761560-f-bulas?utm_medium=api&amp;utm_source=rss"><img alt="Fábulas" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422621035l/24761560._SY75_.jpg" /></a><br/>
+                                      author: Aesop<br/>
+                                      name: Gonzalo<br/>
+                                      average rating: 3.62<br/>
+                                      book published: -560<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2024/12/31<br/>
+                                      shelves: to-read<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144050732?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:18:18 -0800]]></pubDate>
+    <title>Cómo leer a Aristóteles</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144050732?utm_medium=api&utm_source=rss]]></link>
+    <book_id>204509327</book_id>
+    <book_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></book_image_url>
+    <book_small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></book_large_image_url>
+    <book_description></book_description>
+    <book id="204509327">
+      <num_pages>0</num_pages>
+    </book>
+    <author_name>unknown author</author_name>
+    <isbn>8433408194</isbn>
+    <user_name>Gonzalo</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:18:18 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:18:18 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
+    <user_review></user_review>
+    <average_rating>0.0</average_rating>
+    <book_published></book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/204509327-c-mo-leer-a-arist-teles?utm_medium=api&amp;utm_source=rss"><img alt="Cómo leer a Aristóteles" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" /></a><br/>
+                                      author: unknown author<br/>
+                                      name: Gonzalo<br/>
+                                      average rating: 0.0<br/>
+                                      book published: <br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2024/12/31<br/>
+                                      shelves: to-read<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/7144045181?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 31 Dec 2024 08:17:05 -0800]]></pubDate>
+    <title><![CDATA[De Physis a Polis: La evolución del pensamiento filosófico griego desde Tales a Sócrates (Spanish Edition)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/7144045181?utm_medium=api&utm_source=rss]]></link>
+    <book_id>215797543</book_id>
+    <book_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719866808l/215797543._SX50_.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719866808l/215797543._SX50_.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719866808l/215797543._SX98_.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719866808l/215797543._SY475_.jpg]]></book_large_image_url>
+    <book_description></book_description>
+    <book id="215797543">
+      <num_pages>308</num_pages>
+    </book>
+    <author_name>Antonio Escohotado</author_name>
+    <isbn></isbn>
+    <user_name>Gonzalo</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 31 Dec 2024 08:17:05 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 31 Dec 2024 08:17:05 -0800]]></user_date_created>
+    <user_shelves>to-read</user_shelves>
+    <user_review></user_review>
+    <average_rating>3.50</average_rating>
+    <book_published></book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/215797543-de-physis-a-polis?utm_medium=api&amp;utm_source=rss"><img alt="De Physis a Polis: La evolución del pensamiento filosófico griego desde Tales a Sócrates (Spanish Edition)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719866808l/215797543._SX50_.jpg" /></a><br/>
+                                      author: Antonio Escohotado<br/>
+                                      name: Gonzalo<br/>
+                                      average rating: 3.50<br/>
+                                      book published: <br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2024/12/31<br/>
+                                      shelves: to-read<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
