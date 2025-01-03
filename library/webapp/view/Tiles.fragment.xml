@@ -1,0 +1,27 @@
+<mvc:View
+  xmlns:m="sap.m"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m"
+  xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1"
+  controllerName="ris.controller.Main">
+  <m:VBox class="sapUiSizeCompact">
+    <ScrollContainer
+      class="sapUiLargeMarginBegin"
+      content="{path : '/books'}">
+      <GenericTile
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout"
+        backgroundImage="./data/cover/{Image}"
+        Responsive="{Responsive}"
+        frameType="OneByOne"
+        press="handleBookPress"
+        app:Title="{Title}"
+        app:Author="{Author}"
+        app:State="{State}"
+        app:Genre="{Genre}"
+        app:ReadingDate="{ReadingDate}"
+        app:Image="{Image}"
+        >
+      </GenericTile>
+    </ScrollContainer>
+  </m:VBox>
+</mvc:View>

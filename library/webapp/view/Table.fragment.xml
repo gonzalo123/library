@@ -9,6 +9,7 @@
     <t:Table
       id="table"
       selectionMode="None"
+      title="{= ${/books}.length + ' libros encontrados'}"
       rows="{
             path: '/books',
             sorter: {

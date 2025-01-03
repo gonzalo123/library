@@ -32,7 +32,21 @@
       </f:DynamicPageHeader>
     </f:header>
     <f:content>
-      <c:Fragment fragmentName="library.view.Table" type="XML"/>
+      <IconTabBar
+        id="formTab"
+        expandable="false"
+        class="sapUiSizeCompact">
+        <items>
+          <IconTabFilter
+            text="Tabla">
+            <c:Fragment fragmentName="library.view.Table" type="XML"/>
+          </IconTabFilter>
+          <IconTabFilter
+            text="Estantería">
+            <c:Fragment fragmentName="library.view.Tiles" type="XML"/>
+          </IconTabFilter>
+        </items>
+      </IconTabBar>
     </f:content>
     <!-- DynamicPage Footer -->
     <f:footer>
