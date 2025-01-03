@@ -3,8 +3,17 @@ from datetime import datetime
 import sqlite3
 from pathlib import Path
 import requests
+import logging
 
 BASE_DIR = Path(__file__).resolve().parent
+
+logging.basicConfig(
+    format='%(asctime)s [%(levelname)s] %(message)s',
+    level='INFO',
+    datefmt='%d/%m/%Y %X')
+
+logger = logging.getLogger(__name__)
+
 
 def descargar_imagen(url):
     nombre_archivo = url.split("/")[-1]
@@ -15,6 +24,7 @@ def descargar_imagen(url):
         archivo.write(respuesta.content)
 
     return nombre_archivo
+
 
 tree = ET.parse('x.rss')
 root = tree.getroot()
@@ -36,7 +46,6 @@ for item in items:
         formatted_date = None
     books.append((title, author, image_url, formatted_date))
 
-
 conn = sqlite3.connect('db.sqlite')
 cursor = conn.cursor()
 
@@ -49,12 +58,17 @@ for book in books:
         'reading_date': book[3],
         'image': nombre_archivo,
     }
-    """
-    cursor.execute('''
-        INSERT INTO books (Title, Author, State, ReadingDate, Image)
-        VALUES (:title, :author, :state, :reading_date, :image)
-    ''', book_data)
-    """
-    print(book_data)
+    cursor.execute('SELECT COUNT(*) FROM books WHERE Title = ?', (book_data['title'],))
+    if cursor.fetchone()[0] == 0:
+
+        cursor.execute('''
+            INSERT INTO books (Title, Author, State, ReadingDate, Image)
+            VALUES (:title, :author, :state, :reading_date, :image)
+        ''', book_data)
+
+        logger.info(f'Libro "{book_data["title"]}" insertado correctamente')
+    else:
+        logger.warning(f'Libro "{book_data["title"]}" ya existe en la base de datos')
+
 conn.commit()
 conn.close()
