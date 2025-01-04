@@ -26,7 +26,7 @@ def descargar_imagen(url):
     return nombre_archivo
 
 
-tree = ET.parse('x.rss')
+tree = ET.parse('import.rss')
 root = tree.getroot()
 
 namespace = {'atom': 'http://www.w3.org/2005/Atom'}
@@ -59,8 +59,8 @@ for book in books:
         'image': nombre_archivo,
     }
     cursor.execute('SELECT COUNT(*) FROM books WHERE Title = ?', (book_data['title'],))
-    if cursor.fetchone()[0] == 0:
-
+    book_id = cursor.fetchone()[0]
+    if book_id == 0:
         cursor.execute('''
             INSERT INTO books (Title, Author, State, ReadingDate, Image)
             VALUES (:title, :author, :state, :reading_date, :image)
@@ -68,7 +68,13 @@ for book in books:
 
         logger.info(f'Libro "{book_data["title"]}" insertado correctamente')
     else:
-        logger.warning(f'Libro "{book_data["title"]}" ya existe en la base de datos')
+        cursor.execute('''
+                UPDATE books
+                SET Author = :author, State = :state, ReadingDate = :reading_date, Image = :image
+                WHERE Id = :id
+            ''', {**book_data, 'id': book_id})
+        logger.info(f'Libro "{book_data["title"]}" actualizado correctamente')
+
 
 conn.commit()
 conn.close()

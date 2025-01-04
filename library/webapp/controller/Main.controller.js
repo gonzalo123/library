@@ -16,7 +16,7 @@ sap.ui.define([
 
 		onInit: function () {
 			this.setModel(new JSONModel(this.model))
-			const booksModel = new JSONModel(sap.ui.require.toUrl("library/data/books.json?x="+ Math.random()));
+			const booksModel = new JSONModel(sap.ui.require.toUrl("library/data/books.json?x=" + Math.random()));
 			booksModel.attachRequestCompleted(this._onDataLoaded.bind(this));
 		},
 
@@ -26,11 +26,12 @@ sap.ui.define([
 			const authors = [...new Set(books.map(book => book.Author))].map(value => ({value}));
 			const states = [...new Set(books.map(book => book.State))].map(value => ({value}));
 			const genres = [...new Set(books.map(book => book.Genre))].map(value => ({value}));
+			const years = [...new Set(books.map(book => book.ReadingDate ? new Date(book.ReadingDate).getFullYear() : null).filter(year => year))].map(value => ({value}));
 			m.setProperty("/allBooks", books);
 			m.setProperty("/masterdata/authors", authors);
 			m.setProperty("/masterdata/states", states);
 			m.setProperty("/masterdata/genres", genres);
-
+			m.setProperty("/masterdata/years", years);
 			m.setProperty("/books", books);
 		},
 
@@ -71,11 +72,13 @@ sap.ui.define([
 			const allBooks = m.getProperty("/allBooks");
 
 			const filteredBooks = allBooks.filter(book => {
+				const bookYear = book.ReadingDate ? new Date(book.ReadingDate).getFullYear() : null;
+				const formReadingYear = form.readingYear ? parseInt(form.readingYear, 10) : null;
 				return (!form.title || book.Title.includes(form.title)) &&
 					(!form.author || book.Author === form.author) &&
 					(!form.state || book.State === form.state) &&
 					(!form.genre || book.Genre === form.genre) &&
-					(!form.readingDate || book.ReadingDate === form.readingDate);
+					(!formReadingYear || bookYear === formReadingYear);
 			});
 			m.setProperty("/books", filteredBooks);
 		}

@@ -5,87 +5,102 @@
 >
 
   <f:Form editable="true" class="sapUiSizeCompact">
-          <f:title>
-            <!--<c:Title text="" />-->
-          </f:title>
-          <f:layout>
-            <f:ResponsiveGridLayout
-              labelSpanXL="4"
-              labelSpanL="3"
-              labelSpanM="4"
-              labelSpanS="12"
-              adjustLabelSpan="false"
-              emptySpanXL="0"
-              emptySpanL="4"
-              emptySpanM="0"
-              emptySpanS="0"
-              columnsXL="2"
-              columnsL="1"
-              columnsM="1"
-              singleContainerFullSize="false"/>
-          </f:layout>
-          <f:formContainers>
-            <f:FormContainer title="">
-              <f:formElements>
-                <f:FormElement label="Título">
-                  <f:fields>
-                    <m:Input
-                      value="{/form/title}"
-                      showValueHelp="false"
-                    >
-                    </m:Input>
-                  </f:fields>
-                </f:FormElement>
-                <f:FormElement label="Autor">
-                  <f:fields>
-                    <m:ComboBox
-                      selectedKey="{/form/author}"
-                      id="author"
-                      items="{
+    <f:title>
+      <!--<c:Title text="" />-->
+    </f:title>
+    <f:layout>
+      <f:ResponsiveGridLayout
+        labelSpanXL="4"
+        labelSpanL="3"
+        labelSpanM="4"
+        labelSpanS="12"
+        adjustLabelSpan="false"
+        emptySpanXL="0"
+        emptySpanL="4"
+        emptySpanM="0"
+        emptySpanS="0"
+        columnsXL="2"
+        columnsL="1"
+        columnsM="1"
+        singleContainerFullSize="false"/>
+    </f:layout>
+    <f:formContainers>
+      <f:FormContainer title="">
+        <f:formElements>
+          <f:FormElement label="Título">
+            <f:fields>
+              <m:Input
+                value="{/form/title}"
+                showValueHelp="false"
+              >
+              </m:Input>
+            </f:fields>
+          </f:FormElement>
+          <f:FormElement label="Autor">
+            <f:fields>
+              <m:ComboBox
+                selectedKey="{/form/author}"
+                id="author"
+                items="{
                         path: '/masterdata/authors',
                         sorter: {
                           path: 'value',
                           descending: false
                         }
                         }">
-                      <c:Item text="{value}" key="{value}"/>
-                    </m:ComboBox>
-                  </f:fields>
-                </f:FormElement>
-                <f:FormElement label="Estado">
-                  <f:fields>
-                    <m:ComboBox
-                      selectedKey="{/form/state}"
-                      items="{
+                <c:Item text="{value}" key="{value}"/>
+              </m:ComboBox>
+            </f:fields>
+          </f:FormElement>
+          <f:FormElement label="Estado">
+            <f:fields>
+              <m:ComboBox
+                selectedKey="{/form/state}"
+                items="{
                         path: '/masterdata/states',
                         sorter: {
                           path: 'value',
                           descending: false
                         }
                         }">
-                      <c:Item text="{value}" key="{value}"/>
-                    </m:ComboBox>
-                  </f:fields>
-                </f:FormElement>
-                <f:FormElement label="Género">
-                  <f:fields>
-                    <m:ComboBox
-                      selectedKey="{/form/genre}"
-                      items="{
+                <c:Item text="{value}" key="{value}"/>
+              </m:ComboBox>
+            </f:fields>
+          </f:FormElement>
+          <f:FormElement label="Género">
+            <f:fields>
+              <m:ComboBox
+                selectedKey="{/form/genre}"
+                items="{
                         path: '/masterdata/genres',
                         sorter: {
                           path: 'genre',
                           descending: false
                         }
                         }">
-                      <c:Item text="{value}" key="{value}"/>
-                    </m:ComboBox>
-                  </f:fields>
-                </f:FormElement>
-              </f:formElements>
-            </f:FormContainer>
-          </f:formContainers>
-        </f:Form>
+                <c:Item text="{value}" key="{value}"/>
+              </m:ComboBox>
+            </f:fields>
+          </f:FormElement>
+          <f:FormElement label="Año de lectura">
+            <f:fields>
+              <m:ComboBox
+                selectedKey="{/form/readingYear}"
+                items="{
+        path: '/masterdata/years',
+        sorter: {
+          path: 'value',
+          descending: false
+        }
+        }">
+                <c:Item text="{value}" key="{value}"/>
+              </m:ComboBox>
+            </f:fields>
+          </f:FormElement>
+        </f:formElements>
+      </f:FormContainer>
+    </f:formContainers>
+  </f:Form>
 
   <m:Toolbar>
     <m:Button
