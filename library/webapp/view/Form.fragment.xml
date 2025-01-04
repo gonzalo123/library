@@ -32,6 +32,7 @@
               <m:Input
                 value="{/form/title}"
                 showValueHelp="false"
+                submit="handleSearchSelected"
               >
               </m:Input>
             </f:fields>
@@ -47,7 +48,8 @@
                           path: 'value',
                           descending: false
                         }
-                        }">
+                        }"
+                selectionChange="handleSearchSelected">
                 <c:Item text="{value}" key="{value}"/>
               </m:ComboBox>
             </f:fields>
@@ -62,7 +64,8 @@
                           path: 'value',
                           descending: false
                         }
-                        }">
+                        }"
+                selectionChange="handleSearchSelected">
                 <c:Item text="{value}" key="{value}"/>
               </m:ComboBox>
             </f:fields>
@@ -77,7 +80,8 @@
                           path: 'genre',
                           descending: false
                         }
-                        }">
+                        }"
+                selectionChange="handleSearchSelected">
                 <c:Item text="{value}" key="{value}"/>
               </m:ComboBox>
             </f:fields>
@@ -87,12 +91,13 @@
               <m:ComboBox
                 selectedKey="{/form/readingYear}"
                 items="{
-        path: '/masterdata/years',
-        sorter: {
-          path: 'value',
-          descending: false
-        }
-        }">
+                path: '/masterdata/years',
+                sorter: {
+                  path: 'value',
+                  descending: false
+                }
+                }"
+              selectionChange="handleSearchSelected">
                 <c:Item text="{value}" key="{value}"/>
               </m:ComboBox>
             </f:fields>
