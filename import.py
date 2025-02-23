@@ -54,7 +54,7 @@ for book in books:
     book_data = {
         'title': book[0],
         'author': book[1],
-        'state': 'Parcialmente leído',
+        'state': 'Leído',
         'reading_date': book[3],
         'image': nombre_archivo,
     }
