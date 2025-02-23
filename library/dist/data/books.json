@@ -1,1137 +1,111 @@
 [
   {
-    "Id": 606,
-    "Title": "La llama de Mileto: El nacimiento de la ciencia en la Antigua Grecia (Alianza Ensayo nº 813) (Spanish Edition)",
-    "Author": "John Freely",
-    "State": "Leído",
-    "ReadingDate": "2022-02-09",
-    "Genre": "Ensayo",
-    "Image": "59925654._SX318_.jpg"
-  },
-  {
-    "Id": 607,
-    "Title": "ANTIFRÁGIL. Las cosas que se benefician del desorden",
-    "Author": "Nassim Nicholas Taleb",
-    "State": "Leído",
-    "ReadingDate": "2023-11-23",
-    "Genre": "Ensayo",
-    "Image": "57216577._SY475_.jpg"
-  },
-  {
-    "Id": 608,
-    "Title": "Los griegos antiguos: Las diez maneras en que modelaron el mundo moderno",
-    "Author": "Edith Hall",
-    "State": "Leído",
-    "ReadingDate": "2021-08-21",
-    "Genre": "Ensayo",
-    "Image": "49360467._SY475_.jpg"
-  },
-  {
-    "Id": 609,
-    "Title": "El nadador de Paestum. Juventud, Eros y mar en la antigua Grecia",
-    "Author": "Tonio Höscher",
-    "State": "Leído",
-    "ReadingDate": "2022-11-22",
-    "Genre": "Ensayo",
-    "Image": "62722246.jpg"
-  },
-  {
-    "Id": 610,
-    "Title": "Imágenes cómicas y festivas de la Grecia clásica",
-    "Author": "Manuel Alvarez Junco",
-    "State": "Leído",
-    "ReadingDate": "2023-04-23",
-    "Genre": "Ensayo",
-    "Image": "123985176._SY475_.jpg"
-  },
-  {
-    "Id": 611,
-    "Title": "Sabiduría antigua para tiempos modernos",
-    "Author": "Mauro Bonazzi",
-    "State": "Leído",
-    "ReadingDate": "2022-09-29",
-    "Genre": "Ensayo",
-    "Image": "61993829._SY475_.jpg"
-  },
-  {
-    "Id": 612,
-    "Title": "El arte clásico del mando: Ocho generales griegos que moldearon la historia de la guerra",
-    "Author": "Joseph Roisman",
-    "State": "Leído",
-    "ReadingDate": "2023-06-07",
-    "Genre": "Ensayo",
-    "Image": "128807527._SY475_.jpg"
-  },
-  {
-    "Id": 613,
-    "Title": "Prometeo. El mito del dios rebelde y filántropo",
-    "Author": "Carlos García Gual",
-    "State": "Leído",
-    "ReadingDate": "2022-03-03",
-    "Genre": "Ensayo",
-    "Image": "60596560._SY475_.jpg"
-  },
-  {
-    "Id": 614,
-    "Title": "Simposios y banquetes griegos (Spanish Edition)",
-    "Author": "Carlos García Gual",
-    "State": "Leído",
-    "ReadingDate": "2022-07-27",
-    "Genre": "Ensayo",
-    "Image": "61458323._SY475_.jpg"
-  },
-  {
-    "Id": 615,
-    "Title": "Hécate: La Diosa Sombría",
-    "Author": "Mario Agudo Villanueva",
-    "State": "Leído",
-    "ReadingDate": "2023-05-11",
-    "Genre": "Ensayo",
-    "Image": "56069934._SY475_.jpg"
-  },
-  {
-    "Id": 616,
-    "Title": "La senda de Aristóteles: De cómo la sabiduría antigua puede cambiar nuestra vida",
-    "Author": "Edith Hall",
-    "State": "Leído",
-    "ReadingDate": "2022-08-22",
-    "Genre": "Ensayo",
-    "Image": "61079480._SY475_.jpg"
-  },
-  {
-    "Id": 617,
-    "Title": "La lágrima de Jantipa: Los filósofos y las mujeres en la Grecia antigua",
-    "Author": "Manel García Sánchez",
-    "State": "Leído",
-    "ReadingDate": "2024-05-24",
-    "Genre": "Ensayo",
-    "Image": "202795061._SY475_.jpg"
-  },
-  {
-    "Id": 618,
-    "Title": "Los grandes períodos de la cultura griega",
-    "Author": "José Alsina",
-    "State": "Leído",
-    "ReadingDate": "2024-02-07",
-    "Genre": "Ensayo",
-    "Image": "21552593._SY475_.jpg"
-  },
-  {
-    "Id": 619,
-    "Title": "La forja del carácter: Una búsqueda de la virtud en la filosofía clásica",
-    "Author": "Massimo Pigliucci",
-    "State": "Leído",
-    "ReadingDate": "2023-04-30",
-    "Genre": "Ensayo",
-    "Image": "140934650._SY475_.jpg"
-  },
-  {
-    "Id": 620,
-    "Title": "Aquiles en TikTok: El camino a la virtud / Achilles on TikTok: The Path to Virtue (Spanish Edition)",
-    "Author": "Eduardo Infante",
-    "State": "Leído",
-    "ReadingDate": "2023-06-23",
-    "Genre": "Ensayo",
-    "Image": "201871834._SX318_.jpg"
-  },
-  {
-    "Id": 621,
-    "Title": "¿Hay filosofía en tu nevera?: Descubre las grandes preguntas donde menos te lo esperas",
-    "Author": "Enric F. Gel",
-    "State": "Leído",
-    "ReadingDate": "2023-09-23",
-    "Genre": "Ensayo",
-    "Image": "172870237._SY475_.jpg"
-  },
-  {
-    "Id": 622,
-    "Title": "La metamorfosis",
-    "Author": "Franz Kafka",
-    "State": "Leído",
-    "ReadingDate": "2007-05-09",
-    "Genre": "Novela",
-    "Image": "2600624._SY475_.jpg"
-  },
-  {
-    "Id": 623,
-    "Title": "El velo de Isis",
-    "Author": "Pierre Hadot",
-    "State": "Leído",
-    "ReadingDate": "2024-06-07",
-    "Genre": "Ensayo",
-    "Image": "27870181._SY475_.jpg"
-  },
-  {
-    "Id": 624,
-    "Title": "La lengua de los dioses: Nueve razones para amar el griego",
-    "Author": "Andrea Marcolongo",
-    "State": "Leído",
-    "ReadingDate": "2021-05-11",
-    "Genre": "Ensayo",
-    "Image": "36250927._SY475_.jpg"
-  },
-  {
-    "Id": 625,
-    "Title": "Perictione o De la libertad: Trilogía platónica",
-    "Author": "Ernesto Castro",
-    "State": "Leído",
-    "ReadingDate": "2023-03-12",
-    "Genre": "Ensayo",
-    "Image": "75558550._SY475_.jpg"
-  },
-  {
-    "Id": 626,
-    "Title": "Obras completas",
-    "Author": "Epicuro",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "6940668.jpg"
-  },
-  {
-    "Id": 627,
-    "Title": "Aprender a pensar: Heráclito y Parménides",
-    "Author": "Joan Ferrer Gràcia",
-    "State": "Leído",
-    "ReadingDate": "2022-07-04",
-    "Genre": "Ensayo",
-    "Image": "55938228._SX318_.jpg"
-  },
-  {
-    "Id": 628,
-    "Title": "Fragmentos presocráticos: De Tales a Demócrito",
-    "Author": "Alberto Bernabé Pajares",
-    "State": "Leído",
-    "ReadingDate": "2022-05-26",
-    "Genre": "Ensayo",
-    "Image": "28686367.jpg"
-  },
-  {
-    "Id": 629,
-    "Title": "Helenismo",
-    "Author": "Jesús Mosterín",
-    "State": "Leído",
-    "ReadingDate": "2022-11-20",
-    "Genre": "Ensayo",
-    "Image": "41135750.jpg"
-  },
-  {
-    "Id": 630,
-    "Title": "Los griegos y lo irracional",
-    "Author": "E.R. Dodds",
-    "State": "Leído",
-    "ReadingDate": "2023-02-12",
-    "Genre": "Ensayo",
-    "Image": "49400530._SX318_SY475_.jpg"
-  },
-  {
-    "Id": 631,
-    "Title": "Los mitos de Platón",
-    "Author": "Karl Reinhardt",
-    "State": "Leído",
-    "ReadingDate": "2022-03-29",
-    "Genre": "Ensayo",
-    "Image": "61371517.jpg"
-  },
-  {
-    "Id": 632,
-    "Title": "La República, Libro 7",
-    "Author": "Platón",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "22356825._SY475_.jpg"
-  },
-  {
-    "Id": 633,
-    "Title": "Diálogos I",
-    "Author": "Platón",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "55681443._SY475_.jpg"
-  },
-  {
-    "Id": 634,
-    "Title": "La estética antigua",
-    "Author": "Giovanni Lombardo",
-    "State": "Leído",
-    "ReadingDate": "2023-03-23",
-    "Genre": "Ensayo",
-    "Image": "18078149.jpg"
-  },
-  {
-    "Id": 635,
-    "Title": "Breve historia del arte clásico. Arte 5 (Spanish Edition)",
-    "Author": "Carlos Javier Taranilla de la Varga",
-    "State": "Leído",
-    "ReadingDate": "2021-10-25",
-    "Genre": "Ensayo",
-    "Image": "211838130._SY475_.jpg"
-  },
-  {
-    "Id": 636,
-    "Title": "Disfrutar el arte: Comentario y silencio",
-    "Author": "Juan-Ramón Capella",
-    "State": "Leído",
-    "ReadingDate": "2024-08-17",
-    "Genre": "Ensayo",
-    "Image": "210706567._SY475_.jpg"
-  },
-  {
-    "Id": 637,
-    "Title": "Renacimiento y Barroco (Spanish Edition)",
-    "Author": "Heinrich Wölfflin",
-    "State": "Leído",
-    "ReadingDate": "2024-01-24",
-    "Genre": "Ensayo",
-    "Image": "115433399._SX318_.jpg"
-  },
-  {
-    "Id": 638,
-    "Title": "Los cornudos del viejo arte moderno",
-    "Author": "Salvador Dalí",
-    "State": "Leído",
-    "ReadingDate": "2024-12-19",
-    "Genre": "Novela",
-    "Image": "59984898._SY475_.jpg"
-  },
-  {
-    "Id": 639,
-    "Title": "La tragedia griega",
-    "Author": "Jacqueline de Romilly",
-    "State": "Leído",
-    "ReadingDate": "2023-11-04",
-    "Genre": "Ensayo",
-    "Image": "69260332._SY475_.jpg"
-  },
-  {
-    "Id": 640,
-    "Title": "La Teogonía",
-    "Author": "Hesíodo",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "40871738._SX318_.jpg"
-  },
-  {
-    "Id": 641,
-    "Title": "Zorba el griego: Vida y andanzas de Alexis Zorba",
-    "Author": "Nikos Kazantzakis",
-    "State": "Leído",
-    "ReadingDate": "2024-08-11",
-    "Genre": "Novela",
-    "Image": "27392408._SY475_.jpg"
-  },
-  {
-    "Id": 642,
-    "Title": "Cicatriz",
-    "Author": "Sara Mesa",
-    "State": "Leído",
-    "ReadingDate": "2023-11-23",
-    "Genre": "Novela",
-    "Image": "25885754._SY475_.jpg"
-  },
-  {
-    "Id": 643,
-    "Title": "El adversario",
-    "Author": "Emmanuel Carrère",
-    "State": "Leído",
-    "ReadingDate": "2024-09-22",
-    "Genre": "Novela",
-    "Image": "52503816._SX318_SY475_.jpg"
-  },
-  {
-    "Id": 644,
-    "Title": "El infinito en un junco",
-    "Author": "Irene Vallejo",
-    "State": "Leído",
-    "ReadingDate": "2023-01-25",
-    "Genre": "Ensayo",
-    "Image": "57499866.jpg"
-  },
-  {
-    "Id": 645,
-    "Title": "El mundo de Sofía",
-    "Author": "Jostein Gaarder",
-    "State": "Leído",
-    "ReadingDate": "2023-08-12",
-    "Genre": "Ensayo",
-    "Image": "17436565.jpg"
-  },
-  {
-    "Id": 646,
-    "Title": "El pacto de las colonias",
-    "Author": "Laura Azcona",
-    "State": "Leído",
-    "ReadingDate": "2024-02-22",
-    "Genre": "Novela",
-    "Image": "201558838.jpg"
-  },
-  {
-    "Id": 647,
-    "Title": "Rendición",
-    "Author": "Ray Loriga",
-    "State": "Leído",
-    "ReadingDate": "2018-08-13",
-    "Genre": "Novela",
-    "Image": "34918847._SY475_.jpg"
-  },
-  {
-    "Id": 648,
-    "Title": "Cualquier verano es un final",
-    "Author": "Ray Loriga",
-    "State": "Leído",
-    "ReadingDate": "2023-07-13",
-    "Genre": "Novela",
-    "Image": "63272785.jpg"
-  },
-  {
-    "Id": 649,
-    "Title": "La ciudad y sus muros inciertos",
-    "Author": "Haruki Murakami",
-    "State": "Leído",
-    "ReadingDate": "2024-05-09",
-    "Genre": "Novela",
-    "Image": "204454060._SY475_.jpg"
-  },
-  {
-    "Id": 650,
-    "Title": "El holandés",
-    "Author": "Elisa Ferrer",
-    "State": "Leído",
-    "ReadingDate": "2024-01-18",
-    "Genre": "Novela",
-    "Image": "184213991._SY475_.jpg"
-  },
-  {
-    "Id": 651,
-    "Title": "Frankenstein",
-    "Author": "Mary Wollstonecraft Shelley",
-    "State": "Leído",
-    "ReadingDate": "2024-12-29",
-    "Genre": "Novela",
-    "Image": "6549846.jpg"
-  },
-  {
-    "Id": 652,
-    "Title": "La vida secreta: Diario inédito (Spanish Edition)",
+    "Id": 767,
+    "Title": "La vida secreta- rústica: Diario inédito (Spanish Edition)",
     "Author": "Gala Dalí",
     "State": "Leído",
     "ReadingDate": "2024-12-22",
-    "Genre": "Novela",
+    "Genre": null,
     "Image": "220704140._SX318_.jpg"
   },
   {
-    "Id": 653,
-    "Title": "Oráculos griegos",
-    "Author": "David Hernández de la Fuente",
-    "State": "Leído",
-    "ReadingDate": "2024-12-18",
-    "Genre": "Ensayo",
-    "Image": "52195832._SY475_.jpg"
-  },
-  {
-    "Id": 654,
-    "Title": "Maneras trágicas de matar a una mujer",
-    "Author": "Nicole Loraux",
-    "State": "Leído",
-    "ReadingDate": "2024-12-11",
-    "Genre": "Ensayo",
-    "Image": "55014544._SY475_.jpg"
-  },
-  {
-    "Id": 655,
-    "Title": "Antes de Troya: Biblioteca histórica: Libro IV y fragmentos del Libro VI",
-    "Author": "Diodoro de Sicilia",
-    "State": "Leído",
-    "ReadingDate": "2024-12-10",
-    "Genre": "Novela",
-    "Image": "62690248._SY475_.jpg"
-  },
-  {
-    "Id": 656,
-    "Title": "La clase de griego",
-    "Author": "Han Kang",
-    "State": "Leído",
-    "ReadingDate": "2024-12-03",
-    "Genre": "Novela",
-    "Image": "172870519._SY475_.jpg"
-  },
-  {
-    "Id": 657,
-    "Title": "Project Hail Mary",
-    "Author": "Andy Weir",
-    "State": "Leído",
-    "ReadingDate": "2024-11-28",
-    "Genre": "Novela",
-    "Image": "54869216._SY475_.jpg"
-  },
-  {
-    "Id": 658,
-    "Title": "Catábasis: El viaje infernal en la Antigüedad",
-    "Author": "Miguel Herrero de Jáuregui",
-    "State": "Leído",
-    "ReadingDate": "2024-11-13",
-    "Genre": "Ensayo",
-    "Image": "123489658._SY475_.jpg"
-  },
-  {
-    "Id": 659,
-    "Title": "Mujeres y diosas en el Mediterráneo antiguo",
-    "Author": "Paola Angeli Bernardini",
-    "State": "Leído",
-    "ReadingDate": "2024-11-03",
-    "Genre": "Ensayo",
-    "Image": "68769431._SY475_.jpg"
-  },
-  {
-    "Id": 660,
-    "Title": "A pesar de Platón: Figuras femeninas en la filosofía antigua (Spanish Edition)",
-    "Author": "Adriana Cavarero",
-    "State": "Leído",
-    "ReadingDate": "2024-10-24",
-    "Genre": "Ensayo",
-    "Image": "220202806._SX318_.jpg"
-  },
-  {
-    "Id": 661,
-    "Title": "La revuelta de las cariátides",
-    "Author": "Petros Markaris",
-    "State": "Leído",
-    "ReadingDate": "2024-10-19",
-    "Genre": "Novela",
-    "Image": "206708214._SY475_.jpg"
-  },
-  {
-    "Id": 662,
-    "Title": "La Europa de Dante",
-    "Author": "Manuel Alejandro Rodríguez de la Peña",
-    "State": "Leído",
-    "ReadingDate": "2024-10-08",
-    "Genre": "Ensayo",
-    "Image": "210706501._SY475_.jpg"
-  },
-  {
-    "Id": 663,
-    "Title": "Filosofía medieval: Un compendio del pensamiento occidental desde los orígenes del cristianismo hasta Guillermo de Ockham: más allá del debate entre la razón y la fe",
-    "Author": "Rodrigo Menchón",
-    "State": "Leído",
-    "ReadingDate": "2024-09-29",
-    "Genre": "Ensayo",
-    "Image": "198789126._SY475_.jpg"
-  },
-  {
-    "Id": 664,
-    "Title": "Desplazar la luna",
-    "Author": "Andrea Marcolongo",
-    "State": "Leído",
-    "ReadingDate": "2024-08-30",
-    "Genre": "Ensayo",
-    "Image": "204780080._SY475_.jpg"
-  },
-  {
-    "Id": 665,
-    "Title": "Maestros y discípulos en la antigua Grecia",
-    "Author": "Javier Murcia Ortuño",
-    "State": "Leído",
-    "ReadingDate": "2024-08-22",
-    "Genre": "Ensayo",
-    "Image": "205687728._SY475_.jpg"
-  },
-  {
-    "Id": 666,
-    "Title": "Rumbo a Itaca: Un viaje a la antigua Grecia en busca de la filosofía",
-    "Author": "Victor Luis Guedan Pecker",
-    "State": "Leído",
-    "ReadingDate": "2024-07-23",
-    "Genre": "Ensayo",
-    "Image": "203736971.jpg"
-  },
-  {
-    "Id": 667,
-    "Title": "El hogar de los dioses: Oráculos y santuarios de la Antigua Grecia",
-    "Author": "Javier Jara",
-    "State": "Leído",
-    "ReadingDate": "2024-07-02",
-    "Genre": "Ensayo",
-    "Image": "205410555._SY475_.jpg"
-  },
-  {
-    "Id": 668,
-    "Title": "Corazón de Ulises",
-    "Author": "Javier Reverte",
+    "Id": 766,
+    "Title": "TEOGONIA LA .- BOLSILLO",
+    "Author": "Hesiod",
     "State": "Leído",
     "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "6669330.jpg"
+    "Genre": null,
+    "Image": "40871738._SX318_.jpg"
   },
   {
-    "Id": 669,
-    "Title": "Electra / Filoctetes / Edipo en Colono",
-    "Author": "Sófocles",
-    "State": "Leído",
-    "ReadingDate": "2023-08-15",
-    "Genre": "Novela",
-    "Image": "49530465._SX318_SY475_.jpg"
-  },
-  {
-    "Id": 670,
-    "Title": "Primera persona del singular / First Person Singular (Spanish Edition)",
-    "Author": "Haruki Murakami",
-    "State": "Leído",
-    "ReadingDate": "2023-07-23",
-    "Genre": "Novela",
-    "Image": "59438018.jpg"
-  },
-  {
-    "Id": 671,
-    "Title": "Filosofía: una guía para principiantes (Spanish Edition)",
-    "Author": "Jenny Teichman",
-    "State": "Leído",
-    "ReadingDate": "2023-03-23",
-    "Genre": "Ensayo",
-    "Image": "9526659._SY475_.jpg"
-  },
-  {
-    "Id": 673,
-    "Title": "Los minoicos",
-    "Author": "Pilar González Serrano",
-    "State": "Leído",
-    "ReadingDate": "2022-05-03",
-    "Genre": "Ensayo",
-    "Image": "49190147._SX318_.jpg"
-  },
-  {
-    "Id": 674,
-    "Title": "Jantipa o Del morir",
-    "Author": "Ernesto Castro",
-    "State": "Leído",
-    "ReadingDate": "2022-04-06",
-    "Genre": "Ensayo",
-    "Image": "59757176._SY475_.jpg"
-  },
-  {
-    "Id": 675,
-    "Title": "Poemas y testimonios",
-    "Author": "Safo",
-    "State": "Leído",
-    "ReadingDate": "2022-04-05",
-    "Genre": "Novela",
-    "Image": "51484771._SY475_.jpg"
-  },
-  {
-    "Id": 679,
-    "Title": "Historia de los griegos",
-    "Author": "Indro Montanelli",
-    "State": "Leído",
-    "ReadingDate": "2022-01-03",
-    "Genre": "Ensayo",
-    "Image": "6420290.jpg"
-  },
-  {
-    "Id": 681,
-    "Title": "La caza del carnero salvaje",
-    "Author": "Haruki Murakami",
-    "State": "Leído",
-    "ReadingDate": "2017-08-17",
-    "Genre": "Novela",
-    "Image": "1049219.jpg"
-  },
-  {
-    "Id": 686,
-    "Title": "El juego de Ender (Ender's Saga, #1)",
-    "Author": "Orson Scott Card",
-    "State": "Leído",
-    "ReadingDate": "2010-03-11",
-    "Genre": "Novela",
-    "Image": "12124295._SY475_.jpg"
-  },
-  {
-    "Id": 689,
-    "Title": "El sol desnudo (Robot, #2)",
-    "Author": "Isaac Asimov",
+    "Id": 765,
+    "Title": "Confesiones (Spanish Edition)",
+    "Author": "Augustine of Hippo",
     "State": "Leído",
     "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "735385.jpg"
-  },
-  {
-    "Id": 690,
-    "Title": "El guardián entre el centeno",
-    "Author": "J.D. Salinger",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "9833397.jpg"
-  },
-  {
-    "Id": 691,
-    "Title": "Fin",
-    "Author": "David Monteagudo",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "8668673.jpg"
-  },
-  {
-    "Id": 692,
-    "Title": "Drácula",
-    "Author": "Bram Stoker",
-    "State": "Leído",
-    "ReadingDate": "2009-11-24",
-    "Genre": "Novela",
-    "Image": "3094938.jpg"
-  },
-  {
-    "Id": 693,
-    "Title": "Gomorra",
-    "Author": "Roberto Saviano",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "5772432.jpg"
-  },
-  {
-    "Id": 694,
-    "Title": "Crónicas marcianas",
-    "Author": "Ray Bradbury",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "1950540._SY475_.jpg"
-  },
-  {
-    "Id": 695,
-    "Title": "Rebelión en la granja",
-    "Author": "George Orwell",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "9759084.jpg"
-  },
-  {
-    "Id": 696,
-    "Title": "El oscuro pasajero (Dexter #1)",
-    "Author": "Jeff Lindsay",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "4629262.jpg"
-  },
-  {
-    "Id": 697,
-    "Title": "Fiesta",
-    "Author": "Ernest Hemingway",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "738555.jpg"
-  },
-  {
-    "Id": 698,
-    "Title": "Monstruos invisibles",
-    "Author": "Chuck Palahniuk",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "6607854.jpg"
-  },
-  {
-    "Id": 699,
-    "Title": "La senda del perdedor",
-    "Author": "Charles Bukowski",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "333756.jpg"
-  },
-  {
-    "Id": 700,
-    "Title": "Guerra Mundial Z: una historia oral de la guerra zombi",
-    "Author": "Max Brooks",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "12667526.jpg"
-  },
-  {
-    "Id": 701,
-    "Title": "Los propios dioses",
-    "Author": "Isaac Asimov",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "3944541.jpg"
-  },
-  {
-    "Id": 702,
-    "Title": "Col recalentada",
-    "Author": "Irvine Welsh",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "18110918.jpg"
-  },
-  {
-    "Id": 703,
-    "Title": "Snuff",
-    "Author": "Chuck Palahniuk",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "11910041.jpg"
-  },
-  {
-    "Id": 704,
-    "Title": "Estudio en escarlata",
-    "Author": "Arthur Conan Doyle",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "13451891.jpg"
-  },
-  {
-    "Id": 705,
-    "Title": "El club de la lucha",
-    "Author": "Chuck Palahniuk",
-    "State": "Leído",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "11212760.jpg"
-  },
-  {
-    "Id": 706,
-    "Title": "El anticristo",
-    "Author": "Friedrich Nietzsche",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "20352418.jpg"
-  },
-  {
-    "Id": 707,
-    "Title": "El crepúsculo de los ídolos",
-    "Author": "Friedrich Nietzsche",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "62623583._SY475_.jpg"
-  },
-  {
-    "Id": 708,
-    "Title": "Tratado sobre la tolerancia",
-    "Author": "Voltaire",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "33301378.jpg"
-  },
-  {
-    "Id": 709,
-    "Title": "El mito de Sísifo",
-    "Author": "Albert Camus",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "2704427.jpg"
-  },
-  {
-    "Id": 710,
-    "Title": "El nacimiento de la tragedia",
-    "Author": "Friedrich Nietzsche",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "21219632.jpg"
-  },
-  {
-    "Id": 711,
-    "Title": "Aprender a pensar: Plotino",
-    "Author": "Oriol Ponsatí-Murlà",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "58172328._SX318_.jpg"
-  },
-  {
-    "Id": 712,
-    "Title": "Mitos",
-    "Author": "Platón",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "41092775.jpg"
-  },
-  {
-    "Id": 713,
-    "Title": "Grecia para todos (Spanish Edition)",
-    "Author": "Carlos Garcia",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "62109998._SY475_.jpg"
-  },
-  {
-    "Id": 714,
-    "Title": "Acerca del alma",
-    "Author": "Aristóteles",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "57191195._SY475_.jpg"
-  },
-  {
-    "Id": 715,
-    "Title": "Fábulas",
-    "Author": "Aesop",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Novela",
-    "Image": "24761560.jpg"
-  },
-  {
-    "Id": 716,
-    "Title": "Cómo leer a Aristóteles",
-    "Author": "María Luisa Femenías",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "111x148-bcc042a9c91a29c1d680899eff700a03.png"
-  },
-  {
-    "Id": 717,
-    "Title": "De Physis a Polis: La evolución del pensamiento filosófico griego desde Tales a Sócrates (Spanish Edition)",
-    "Author": "Antonio Escohotado",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "215797543._SY475_.jpg"
-  },
-  {
-    "Id": 718,
-    "Title": "Ulises: Homeroren Odisearen bertsioa",
-    "Author": "Juan Kruz Igerabide",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "89511597._SY475_.jpg"
-  },
-  {
-    "Id": 719,
-    "Title": "Confesiones",
-    "Author": "San Agustín",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
+    "Genre": null,
     "Image": "18087859._SY475_.jpg"
   },
   {
-    "Id": 720,
-    "Title": "El Corán",
-    "Author": "Mahoma",
-    "State": "Sin leer",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "62395098._SX318_.jpg"
-  },
-  {
-    "Id": 721,
-    "Title": "Lechuzas a Atenas: Pervivencia hoy del refranero griego antiguo",
-    "Author": "Fernando García Romero",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "60867812._SY475_.jpg"
-  },
-  {
-    "Id": 722,
-    "Title": "¡El gran Pan ha muerto!",
-    "Author": "Ernesto Castro",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "63233789._SX318_.jpg"
-  },
-  {
-    "Id": 723,
-    "Title": "Discurso Del Metodo Meditaciones Metafísicas",
-    "Author": "René Descartes",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "33145613._SY475_.jpg"
-  },
-  {
-    "Id": 724,
-    "Title": "Ensayos filosóficos",
-    "Author": "Bertrand Russell",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "41092636.jpg"
-  },
-  {
-    "Id": 725,
-    "Title": "La teología de los primeros filósofos griegos",
-    "Author": "Werner Wilhelm Jaeger",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "214122458._SY475_.jpg"
-  },
-  {
-    "Id": 726,
-    "Title": "Ética a Nicómaco",
-    "Author": "Aristóteles",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "197218278._SY475_.jpg"
-  },
-  {
-    "Id": 727,
-    "Title": "Vidas y opiniones de los filósofos ilustres",
-    "Author": "Diogenes Laertius",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "18715163.jpg"
-  },
-  {
-    "Id": 728,
-    "Title": "Retórica",
-    "Author": "Aristóteles",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "23596717.jpg"
-  },
-  {
-    "Id": 729,
-    "Title": "Apología. Banquete. Recuerdos de Sócrates",
-    "Author": "Jenofonte",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "36222956._SY475_.jpg"
-  },
-  {
-    "Id": 730,
-    "Title": "Diálogos II",
-    "Author": "Platón",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "50523746._SY475_.jpg"
-  },
-  {
-    "Id": 731,
-    "Title": "Pervivencia y actualidad de la cultura clásica",
-    "Author": "Jesús García González",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "111x148-bcc042a9c91a29c1d680899eff700a03.png"
-  },
-  {
-    "Id": 732,
-    "Title": "En los márgenes del mito: Hibridaciones de la mitología clásica en la cultura de masas contemporánea",
-    "Author": "Luis Unceta Gómez,",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "60811514.jpg"
-  },
-  {
-    "Id": 733,
-    "Title": "Conceptos fundamentales de la historia del arte",
-    "Author": "Heinrich Wölfflin",
-    "State": "Parcialmente leído",
-    "ReadingDate": null,
-    "Genre": "Ensayo",
-    "Image": "49252508._SY475_.jpg"
-  },
-  {
-    "Id": 734,
-    "Title": "Poética",
-    "Author": "Aristóteles",
+    "Id": 764,
+    "Title": "La máquina del tiempo",
+    "Author": "H.G. Wells",
     "State": "Leído",
-    "ReadingDate": "2025-01-03",
-    "Genre": "Ensayo",
-    "Image": "23448446.jpg"
+    "ReadingDate": "2025-01-12",
+    "Genre": null,
+    "Image": "49365455._SY475_.jpg"
   },
   {
-    "Id": 735,
-    "Title": "Crónica del pájaro que da cuerda al mundo",
-    "Author": "Haruki Murakami",
+    "Id": 763,
+    "Title": "CRISTO, LA VIRGEN Y LOS DIOSES ANTIGUOS: Cuando los hombres se convertían en dioses (Spanish Edition)",
+    "Author": "Miguel Ángel Ibáñez García",
     "State": "Leído",
-    "ReadingDate": "2008-11-05",
-    "Genre": "Novela",
-    "Image": "3392482._SY475_.jpg"
+    "ReadingDate": "2025-01-23",
+    "Genre": null,
+    "Image": "216373962._SY475_.jpg"
   },
   {
-    "Id": 736,
-    "Title": "Hombres sin mujeres",
-    "Author": "Haruki Murakami",
+    "Id": 762,
+    "Title": "Filosofía de la ciencia: Palabras clave",
+    "Author": "Maria Cristina Amoretti",
     "State": "Leído",
-    "ReadingDate": "2016-09-16",
-    "Genre": "Novela",
-    "Image": "25084093.jpg"
+    "ReadingDate": "2025-01-30",
+    "Genre": null,
+    "Image": "203105836._SY475_.jpg"
   },
   {
-    "Id": 737,
-    "Title": "Tokio Blues: Norwegian Wood",
-    "Author": "Haruki Murakami",
+    "Id": 761,
+    "Title": "Diosas. Historia de la mitología en primera persona/ Goddesses: History of Mytho logy in the First Person (Spanish Edition)",
+    "Author": "Niké de Samotracia",
     "State": "Leído",
-    "ReadingDate": "2008-08-22",
-    "Genre": "Novela",
-    "Image": "3421809._SY475_.jpg"
+    "ReadingDate": "2025-02-06",
+    "Genre": null,
+    "Image": "220352807._SX318_.jpg"
   },
   {
-    "Id": 738,
-    "Title": "After Dark",
-    "Author": "Haruki Murakami",
+    "Id": 760,
+    "Title": "Guía para entender el Nuevo Testamento",
+    "Author": "Antonio Piñero",
     "State": "Leído",
-    "ReadingDate": "2014-08-07",
-    "Genre": "Novela",
-    "Image": "8117265._SY475_.jpg"
+    "ReadingDate": null,
+    "Genre": null,
+    "Image": "6940742._SY475_.jpg"
   },
   {
-    "Id": 739,
-    "Title": "Kafka en la orilla",
-    "Author": "Haruki Murakami",
+    "Id": 759,
+    "Title": "Asedio y caída de Troya",
+    "Author": "Robert Graves",
     "State": "Leído",
-    "ReadingDate": "2011-04-28",
-    "Genre": "Novela",
-    "Image": "463051.jpg"
+    "ReadingDate": "2025-02-13",
+    "Genre": null,
+    "Image": "208907540._SY475_.jpg"
   },
   {
-    "Id": 740,
-    "Title": "Los años de peregrinación del chico sin color",
-    "Author": "Haruki Murakami",
+    "Id": 758,
+    "Title": "El nacimiento de la filosofía",
+    "Author": "Giorgio Colli",
     "State": "Leído",
-    "ReadingDate": "2013-08-19",
-    "Genre": "Novela",
-    "Image": "18272065.jpg"
+    "ReadingDate": "2025-02-19",
+    "Genre": null,
+    "Image": "9736028.jpg"
   },
   {
-    "Id": 741,
-    "Title": "Sputnik, mi amor",
-    "Author": "Haruki Murakami",
+    "Id": 757,
+    "Title": "La guerra de Troya",
+    "Author": "Eric H. Cline",
     "State": "Leído",
-    "ReadingDate": "2008-12-10",
-    "Genre": "Novela",
-    "Image": "3421807._SY475_.jpg"
+    "ReadingDate": null,
+    "Genre": null,
+    "Image": "24260513.jpg"
   },
   {
-    "Id": 754,
-    "Title": "Historia de Grecia",
-    "Author": "Hermann Bengston",
+    "Id": 756,
+    "Title": "Religión griega. Una visión integradora",
+    "Author": "Alberto Bernabé Pajares",
     "State": "Parcialmente leído",
     "ReadingDate": null,
     "Genre": "Ensayo",
-    "Image": "71799614._SY475_.jpg"
+    "Image": "51618093._SY475_.jpg"
   },
   {
     "Id": 755,
@@ -1143,12 +117,1137 @@
     "Image": "85066814._SY475_.jpg"
   },
   {
-    "Id": 756,
-    "Title": "Religión griega. Una visión integradora",
-    "Author": "Alberto Bernabé Pajares",
+    "Id": 754,
+    "Title": "Historia de Grecia",
+    "Author": "Hermann Bengston",
     "State": "Parcialmente leído",
     "ReadingDate": null,
     "Genre": "Ensayo",
-    "Image": "51618093._SY475_.jpg"
+    "Image": "71799614._SY475_.jpg"
+  },
+  {
+    "Id": 741,
+    "Title": "Sputnik, mi amor",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2008-12-10",
+    "Genre": "Novela",
+    "Image": "3421807._SY475_.jpg"
+  },
+  {
+    "Id": 740,
+    "Title": "Los años de peregrinación del chico sin color",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2013-08-19",
+    "Genre": "Novela",
+    "Image": "18272065.jpg"
+  },
+  {
+    "Id": 739,
+    "Title": "Kafka en la orilla",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2011-04-28",
+    "Genre": "Novela",
+    "Image": "463051.jpg"
+  },
+  {
+    "Id": 738,
+    "Title": "After Dark",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2014-08-07",
+    "Genre": "Novela",
+    "Image": "8117265._SY475_.jpg"
+  },
+  {
+    "Id": 737,
+    "Title": "Tokio Blues: Norwegian Wood",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2008-08-22",
+    "Genre": "Novela",
+    "Image": "3421809._SY475_.jpg"
+  },
+  {
+    "Id": 736,
+    "Title": "Hombres sin mujeres",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2016-09-16",
+    "Genre": "Novela",
+    "Image": "25084093.jpg"
+  },
+  {
+    "Id": 735,
+    "Title": "Crónica del pájaro que da cuerda al mundo",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2008-11-05",
+    "Genre": "Novela",
+    "Image": "3392482._SY475_.jpg"
+  },
+  {
+    "Id": 734,
+    "Title": "Poética",
+    "Author": "Aristóteles",
+    "State": "Leído",
+    "ReadingDate": "2025-01-03",
+    "Genre": "Ensayo",
+    "Image": "23448446.jpg"
+  },
+  {
+    "Id": 733,
+    "Title": "Conceptos fundamentales de la historia del arte",
+    "Author": "Heinrich Wölfflin",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "49252508._SY475_.jpg"
+  },
+  {
+    "Id": 732,
+    "Title": "En los márgenes del mito: Hibridaciones de la mitología clásica en la cultura de masas contemporánea",
+    "Author": "Luis Unceta Gómez,",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "60811514.jpg"
+  },
+  {
+    "Id": 731,
+    "Title": "Pervivencia y actualidad de la cultura clásica",
+    "Author": "Jesús García González",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "111x148-bcc042a9c91a29c1d680899eff700a03.png"
+  },
+  {
+    "Id": 730,
+    "Title": "Diálogos II",
+    "Author": "Platón",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "50523746._SY475_.jpg"
+  },
+  {
+    "Id": 729,
+    "Title": "Apología. Banquete. Recuerdos de Sócrates",
+    "Author": "Jenofonte",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "36222956._SY475_.jpg"
+  },
+  {
+    "Id": 728,
+    "Title": "Retórica",
+    "Author": "Aristóteles",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "23596717.jpg"
+  },
+  {
+    "Id": 727,
+    "Title": "Vidas y opiniones de los filósofos ilustres",
+    "Author": "Diogenes Laertius",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "18715163.jpg"
+  },
+  {
+    "Id": 726,
+    "Title": "Ética a Nicómaco",
+    "Author": "Aristóteles",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "197218278._SY475_.jpg"
+  },
+  {
+    "Id": 725,
+    "Title": "La teología de los primeros filósofos griegos",
+    "Author": "Werner Wilhelm Jaeger",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "214122458._SY475_.jpg"
+  },
+  {
+    "Id": 724,
+    "Title": "Ensayos filosóficos",
+    "Author": "Bertrand Russell",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "41092636.jpg"
+  },
+  {
+    "Id": 723,
+    "Title": "Discurso Del Metodo Meditaciones Metafísicas",
+    "Author": "René Descartes",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "33145613._SY475_.jpg"
+  },
+  {
+    "Id": 722,
+    "Title": "¡El gran Pan ha muerto!",
+    "Author": "Ernesto Castro",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "63233789._SX318_.jpg"
+  },
+  {
+    "Id": 721,
+    "Title": "Lechuzas a Atenas: Pervivencia hoy del refranero griego antiguo",
+    "Author": "Fernando García Romero",
+    "State": "Parcialmente leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "60867812._SY475_.jpg"
+  },
+  {
+    "Id": 720,
+    "Title": "El Corán",
+    "Author": "Mahoma",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "62395098._SX318_.jpg"
+  },
+  {
+    "Id": 719,
+    "Title": "Confesiones",
+    "Author": "San Agustín",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "18087859._SY475_.jpg"
+  },
+  {
+    "Id": 718,
+    "Title": "Ulises: Homeroren Odisearen bertsioa",
+    "Author": "Juan Kruz Igerabide",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "89511597._SY475_.jpg"
+  },
+  {
+    "Id": 717,
+    "Title": "De Physis a Polis: La evolución del pensamiento filosófico griego desde Tales a Sócrates (Spanish Edition)",
+    "Author": "Antonio Escohotado",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "215797543._SY475_.jpg"
+  },
+  {
+    "Id": 716,
+    "Title": "Cómo leer a Aristóteles",
+    "Author": "María Luisa Femenías",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "111x148-bcc042a9c91a29c1d680899eff700a03.png"
+  },
+  {
+    "Id": 715,
+    "Title": "Fábulas",
+    "Author": "Aesop",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "24761560.jpg"
+  },
+  {
+    "Id": 714,
+    "Title": "Acerca del alma",
+    "Author": "Aristóteles",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "57191195._SY475_.jpg"
+  },
+  {
+    "Id": 713,
+    "Title": "Grecia para todos (Spanish Edition)",
+    "Author": "Carlos Garcia",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "62109998._SY475_.jpg"
+  },
+  {
+    "Id": 712,
+    "Title": "Mitos",
+    "Author": "Platón",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "41092775.jpg"
+  },
+  {
+    "Id": 711,
+    "Title": "Aprender a pensar: Plotino",
+    "Author": "Oriol Ponsatí-Murlà",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "58172328._SX318_.jpg"
+  },
+  {
+    "Id": 710,
+    "Title": "El nacimiento de la tragedia",
+    "Author": "Friedrich Nietzsche",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "21219632.jpg"
+  },
+  {
+    "Id": 709,
+    "Title": "El mito de Sísifo",
+    "Author": "Albert Camus",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "2704427.jpg"
+  },
+  {
+    "Id": 708,
+    "Title": "Tratado sobre la tolerancia",
+    "Author": "Voltaire",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "33301378.jpg"
+  },
+  {
+    "Id": 707,
+    "Title": "El crepúsculo de los ídolos",
+    "Author": "Friedrich Nietzsche",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "62623583._SY475_.jpg"
+  },
+  {
+    "Id": 706,
+    "Title": "El anticristo",
+    "Author": "Friedrich Nietzsche",
+    "State": "Sin leer",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "20352418.jpg"
+  },
+  {
+    "Id": 705,
+    "Title": "El club de la lucha",
+    "Author": "Chuck Palahniuk",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "11212760.jpg"
+  },
+  {
+    "Id": 704,
+    "Title": "Estudio en escarlata",
+    "Author": "Arthur Conan Doyle",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "13451891.jpg"
+  },
+  {
+    "Id": 703,
+    "Title": "Snuff",
+    "Author": "Chuck Palahniuk",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "11910041.jpg"
+  },
+  {
+    "Id": 702,
+    "Title": "Col recalentada",
+    "Author": "Irvine Welsh",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "18110918.jpg"
+  },
+  {
+    "Id": 701,
+    "Title": "Los propios dioses",
+    "Author": "Isaac Asimov",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "3944541.jpg"
+  },
+  {
+    "Id": 700,
+    "Title": "Guerra Mundial Z: una historia oral de la guerra zombi",
+    "Author": "Max Brooks",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "12667526.jpg"
+  },
+  {
+    "Id": 699,
+    "Title": "La senda del perdedor",
+    "Author": "Charles Bukowski",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "333756.jpg"
+  },
+  {
+    "Id": 698,
+    "Title": "Monstruos invisibles",
+    "Author": "Chuck Palahniuk",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "6607854.jpg"
+  },
+  {
+    "Id": 697,
+    "Title": "Fiesta",
+    "Author": "Ernest Hemingway",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "738555.jpg"
+  },
+  {
+    "Id": 696,
+    "Title": "El oscuro pasajero (Dexter #1)",
+    "Author": "Jeff Lindsay",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "4629262.jpg"
+  },
+  {
+    "Id": 695,
+    "Title": "Rebelión en la granja",
+    "Author": "George Orwell",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "9759084.jpg"
+  },
+  {
+    "Id": 694,
+    "Title": "Crónicas marcianas",
+    "Author": "Ray Bradbury",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "1950540._SY475_.jpg"
+  },
+  {
+    "Id": 693,
+    "Title": "Gomorra",
+    "Author": "Roberto Saviano",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "5772432.jpg"
+  },
+  {
+    "Id": 692,
+    "Title": "Drácula",
+    "Author": "Bram Stoker",
+    "State": "Leído",
+    "ReadingDate": "2009-11-24",
+    "Genre": "Novela",
+    "Image": "3094938.jpg"
+  },
+  {
+    "Id": 691,
+    "Title": "Fin",
+    "Author": "David Monteagudo",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "8668673.jpg"
+  },
+  {
+    "Id": 690,
+    "Title": "El guardián entre el centeno",
+    "Author": "J.D. Salinger",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "9833397.jpg"
+  },
+  {
+    "Id": 689,
+    "Title": "El sol desnudo (Robot, #2)",
+    "Author": "Isaac Asimov",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "735385.jpg"
+  },
+  {
+    "Id": 686,
+    "Title": "El juego de Ender (Ender's Saga, #1)",
+    "Author": "Orson Scott Card",
+    "State": "Leído",
+    "ReadingDate": "2010-03-11",
+    "Genre": "Novela",
+    "Image": "12124295._SY475_.jpg"
+  },
+  {
+    "Id": 681,
+    "Title": "La caza del carnero salvaje",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2017-08-17",
+    "Genre": "Novela",
+    "Image": "1049219.jpg"
+  },
+  {
+    "Id": 679,
+    "Title": "Historia de los griegos",
+    "Author": "Indro Montanelli",
+    "State": "Leído",
+    "ReadingDate": "2022-01-03",
+    "Genre": "Ensayo",
+    "Image": "6420290.jpg"
+  },
+  {
+    "Id": 675,
+    "Title": "Poemas y testimonios",
+    "Author": "Safo",
+    "State": "Leído",
+    "ReadingDate": "2022-04-05",
+    "Genre": "Novela",
+    "Image": "51484771._SY475_.jpg"
+  },
+  {
+    "Id": 674,
+    "Title": "Jantipa o Del morir",
+    "Author": "Ernesto Castro",
+    "State": "Leído",
+    "ReadingDate": "2022-04-06",
+    "Genre": "Ensayo",
+    "Image": "59757176._SY475_.jpg"
+  },
+  {
+    "Id": 673,
+    "Title": "Los minoicos",
+    "Author": "Pilar González Serrano",
+    "State": "Leído",
+    "ReadingDate": "2022-05-03",
+    "Genre": "Ensayo",
+    "Image": "49190147._SX318_.jpg"
+  },
+  {
+    "Id": 671,
+    "Title": "Filosofía: una guía para principiantes (Spanish Edition)",
+    "Author": "Jenny Teichman",
+    "State": "Leído",
+    "ReadingDate": "2023-03-23",
+    "Genre": "Ensayo",
+    "Image": "9526659._SY475_.jpg"
+  },
+  {
+    "Id": 670,
+    "Title": "Primera persona del singular / First Person Singular (Spanish Edition)",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2023-07-23",
+    "Genre": "Novela",
+    "Image": "59438018.jpg"
+  },
+  {
+    "Id": 669,
+    "Title": "Electra / Filoctetes / Edipo en Colono",
+    "Author": "Sófocles",
+    "State": "Leído",
+    "ReadingDate": "2023-08-15",
+    "Genre": "Novela",
+    "Image": "49530465._SX318_SY475_.jpg"
+  },
+  {
+    "Id": 668,
+    "Title": "Corazón de Ulises",
+    "Author": "Javier Reverte",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "6669330.jpg"
+  },
+  {
+    "Id": 667,
+    "Title": "El hogar de los dioses: Oráculos y santuarios de la Antigua Grecia",
+    "Author": "Javier Jara",
+    "State": "Leído",
+    "ReadingDate": "2024-07-02",
+    "Genre": "Ensayo",
+    "Image": "205410555._SY475_.jpg"
+  },
+  {
+    "Id": 666,
+    "Title": "Rumbo a Itaca: Un viaje a la antigua Grecia en busca de la filosofía",
+    "Author": "Victor Luis Guedan Pecker",
+    "State": "Leído",
+    "ReadingDate": "2024-07-23",
+    "Genre": "Ensayo",
+    "Image": "203736971.jpg"
+  },
+  {
+    "Id": 665,
+    "Title": "Maestros y discípulos en la antigua Grecia",
+    "Author": "Javier Murcia Ortuño",
+    "State": "Leído",
+    "ReadingDate": "2024-08-22",
+    "Genre": "Ensayo",
+    "Image": "205687728._SY475_.jpg"
+  },
+  {
+    "Id": 664,
+    "Title": "Desplazar la luna",
+    "Author": "Andrea Marcolongo",
+    "State": "Leído",
+    "ReadingDate": "2024-08-30",
+    "Genre": "Ensayo",
+    "Image": "204780080._SY475_.jpg"
+  },
+  {
+    "Id": 663,
+    "Title": "Filosofía medieval: Un compendio del pensamiento occidental desde los orígenes del cristianismo hasta Guillermo de Ockham: más allá del debate entre la razón y la fe",
+    "Author": "Rodrigo Menchón",
+    "State": "Leído",
+    "ReadingDate": "2024-09-29",
+    "Genre": "Ensayo",
+    "Image": "198789126._SY475_.jpg"
+  },
+  {
+    "Id": 662,
+    "Title": "La Europa de Dante",
+    "Author": "Manuel Alejandro Rodríguez de la Peña",
+    "State": "Leído",
+    "ReadingDate": "2024-10-08",
+    "Genre": "Ensayo",
+    "Image": "210706501._SY475_.jpg"
+  },
+  {
+    "Id": 661,
+    "Title": "La revuelta de las cariátides",
+    "Author": "Petros Markaris",
+    "State": "Leído",
+    "ReadingDate": "2024-10-19",
+    "Genre": "Novela",
+    "Image": "206708214._SY475_.jpg"
+  },
+  {
+    "Id": 660,
+    "Title": "A pesar de Platón: Figuras femeninas en la filosofía antigua (Spanish Edition)",
+    "Author": "Adriana Cavarero",
+    "State": "Leído",
+    "ReadingDate": "2024-10-24",
+    "Genre": "Ensayo",
+    "Image": "220202806._SX318_.jpg"
+  },
+  {
+    "Id": 659,
+    "Title": "Mujeres y diosas en el Mediterráneo antiguo",
+    "Author": "Paola Angeli Bernardini",
+    "State": "Leído",
+    "ReadingDate": "2024-11-03",
+    "Genre": "Ensayo",
+    "Image": "68769431._SY475_.jpg"
+  },
+  {
+    "Id": 658,
+    "Title": "Catábasis: El viaje infernal en la Antigüedad",
+    "Author": "Miguel Herrero de Jáuregui",
+    "State": "Leído",
+    "ReadingDate": "2024-11-13",
+    "Genre": "Ensayo",
+    "Image": "123489658._SY475_.jpg"
+  },
+  {
+    "Id": 657,
+    "Title": "Project Hail Mary",
+    "Author": "Andy Weir",
+    "State": "Leído",
+    "ReadingDate": "2024-11-28",
+    "Genre": "Novela",
+    "Image": "54869216._SY475_.jpg"
+  },
+  {
+    "Id": 656,
+    "Title": "La clase de griego",
+    "Author": "Han Kang",
+    "State": "Leído",
+    "ReadingDate": "2024-12-03",
+    "Genre": "Novela",
+    "Image": "172870519._SY475_.jpg"
+  },
+  {
+    "Id": 655,
+    "Title": "Antes de Troya: Biblioteca histórica: Libro IV y fragmentos del Libro VI",
+    "Author": "Diodoro de Sicilia",
+    "State": "Leído",
+    "ReadingDate": "2024-12-10",
+    "Genre": "Novela",
+    "Image": "62690248._SY475_.jpg"
+  },
+  {
+    "Id": 654,
+    "Title": "Maneras trágicas de matar a una mujer",
+    "Author": "Nicole Loraux",
+    "State": "Leído",
+    "ReadingDate": "2024-12-11",
+    "Genre": "Ensayo",
+    "Image": "55014544._SY475_.jpg"
+  },
+  {
+    "Id": 653,
+    "Title": "Oráculos griegos",
+    "Author": "David Hernández de la Fuente",
+    "State": "Leído",
+    "ReadingDate": "2024-12-18",
+    "Genre": "Ensayo",
+    "Image": "52195832._SY475_.jpg"
+  },
+  {
+    "Id": 652,
+    "Title": "La vida secreta: Diario inédito (Spanish Edition)",
+    "Author": "Gala Dalí",
+    "State": "Leído",
+    "ReadingDate": "2024-12-22",
+    "Genre": "Novela",
+    "Image": "220704140._SX318_.jpg"
+  },
+  {
+    "Id": 651,
+    "Title": "Frankenstein",
+    "Author": "Mary Wollstonecraft Shelley",
+    "State": "Leído",
+    "ReadingDate": "2024-12-29",
+    "Genre": "Novela",
+    "Image": "6549846.jpg"
+  },
+  {
+    "Id": 650,
+    "Title": "El holandés",
+    "Author": "Elisa Ferrer",
+    "State": "Leído",
+    "ReadingDate": "2024-01-18",
+    "Genre": "Novela",
+    "Image": "184213991._SY475_.jpg"
+  },
+  {
+    "Id": 649,
+    "Title": "La ciudad y sus muros inciertos",
+    "Author": "Haruki Murakami",
+    "State": "Leído",
+    "ReadingDate": "2024-05-09",
+    "Genre": "Novela",
+    "Image": "204454060._SY475_.jpg"
+  },
+  {
+    "Id": 648,
+    "Title": "Cualquier verano es un final",
+    "Author": "Ray Loriga",
+    "State": "Leído",
+    "ReadingDate": "2023-07-13",
+    "Genre": "Novela",
+    "Image": "63272785.jpg"
+  },
+  {
+    "Id": 647,
+    "Title": "Rendición",
+    "Author": "Ray Loriga",
+    "State": "Leído",
+    "ReadingDate": "2018-08-13",
+    "Genre": "Novela",
+    "Image": "34918847._SY475_.jpg"
+  },
+  {
+    "Id": 646,
+    "Title": "El pacto de las colonias",
+    "Author": "Laura Azcona",
+    "State": "Leído",
+    "ReadingDate": "2024-02-22",
+    "Genre": "Novela",
+    "Image": "201558838.jpg"
+  },
+  {
+    "Id": 645,
+    "Title": "El mundo de Sofía",
+    "Author": "Jostein Gaarder",
+    "State": "Leído",
+    "ReadingDate": "2023-08-12",
+    "Genre": "Ensayo",
+    "Image": "17436565.jpg"
+  },
+  {
+    "Id": 644,
+    "Title": "El infinito en un junco",
+    "Author": "Irene Vallejo",
+    "State": "Leído",
+    "ReadingDate": "2023-01-25",
+    "Genre": "Ensayo",
+    "Image": "57499866.jpg"
+  },
+  {
+    "Id": 643,
+    "Title": "El adversario",
+    "Author": "Emmanuel Carrère",
+    "State": "Leído",
+    "ReadingDate": "2024-09-22",
+    "Genre": "Novela",
+    "Image": "52503816._SX318_SY475_.jpg"
+  },
+  {
+    "Id": 642,
+    "Title": "Cicatriz",
+    "Author": "Sara Mesa",
+    "State": "Leído",
+    "ReadingDate": "2023-11-23",
+    "Genre": "Novela",
+    "Image": "25885754._SY475_.jpg"
+  },
+  {
+    "Id": 641,
+    "Title": "Zorba el griego: Vida y andanzas de Alexis Zorba",
+    "Author": "Nikos Kazantzakis",
+    "State": "Leído",
+    "ReadingDate": "2024-08-11",
+    "Genre": "Novela",
+    "Image": "27392408._SY475_.jpg"
+  },
+  {
+    "Id": 640,
+    "Title": "La Teogonía",
+    "Author": "Hesíodo",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Novela",
+    "Image": "40871738._SX318_.jpg"
+  },
+  {
+    "Id": 639,
+    "Title": "La tragedia griega",
+    "Author": "Jacqueline de Romilly",
+    "State": "Leído",
+    "ReadingDate": "2023-11-04",
+    "Genre": "Ensayo",
+    "Image": "69260332._SY475_.jpg"
+  },
+  {
+    "Id": 638,
+    "Title": "Los cornudos del viejo arte moderno",
+    "Author": "Salvador Dalí",
+    "State": "Leído",
+    "ReadingDate": "2024-12-19",
+    "Genre": "Novela",
+    "Image": "59984898._SY475_.jpg"
+  },
+  {
+    "Id": 637,
+    "Title": "Renacimiento y Barroco (Spanish Edition)",
+    "Author": "Heinrich Wölfflin",
+    "State": "Leído",
+    "ReadingDate": "2024-01-24",
+    "Genre": "Ensayo",
+    "Image": "115433399._SX318_.jpg"
+  },
+  {
+    "Id": 636,
+    "Title": "Disfrutar el arte: Comentario y silencio",
+    "Author": "Juan-Ramón Capella",
+    "State": "Leído",
+    "ReadingDate": "2024-08-17",
+    "Genre": "Ensayo",
+    "Image": "210706567._SY475_.jpg"
+  },
+  {
+    "Id": 635,
+    "Title": "Breve historia del arte clásico. Arte 5 (Spanish Edition)",
+    "Author": "Carlos Javier Taranilla de la Varga",
+    "State": "Leído",
+    "ReadingDate": "2021-10-25",
+    "Genre": "Ensayo",
+    "Image": "211838130._SY475_.jpg"
+  },
+  {
+    "Id": 634,
+    "Title": "La estética antigua",
+    "Author": "Giovanni Lombardo",
+    "State": "Leído",
+    "ReadingDate": "2023-03-23",
+    "Genre": "Ensayo",
+    "Image": "18078149.jpg"
+  },
+  {
+    "Id": 633,
+    "Title": "Diálogos I",
+    "Author": "Platón",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "55681443._SY475_.jpg"
+  },
+  {
+    "Id": 632,
+    "Title": "La República, Libro 7",
+    "Author": "Platón",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "22356825._SY475_.jpg"
+  },
+  {
+    "Id": 631,
+    "Title": "Los mitos de Platón",
+    "Author": "Karl Reinhardt",
+    "State": "Leído",
+    "ReadingDate": "2022-03-29",
+    "Genre": "Ensayo",
+    "Image": "61371517.jpg"
+  },
+  {
+    "Id": 630,
+    "Title": "Los griegos y lo irracional",
+    "Author": "E.R. Dodds",
+    "State": "Leído",
+    "ReadingDate": "2023-02-12",
+    "Genre": "Ensayo",
+    "Image": "49400530._SX318_SY475_.jpg"
+  },
+  {
+    "Id": 629,
+    "Title": "Helenismo",
+    "Author": "Jesús Mosterín",
+    "State": "Leído",
+    "ReadingDate": "2022-11-20",
+    "Genre": "Ensayo",
+    "Image": "41135750.jpg"
+  },
+  {
+    "Id": 628,
+    "Title": "Fragmentos presocráticos: De Tales a Demócrito",
+    "Author": "Alberto Bernabé Pajares",
+    "State": "Leído",
+    "ReadingDate": "2022-05-26",
+    "Genre": "Ensayo",
+    "Image": "28686367.jpg"
+  },
+  {
+    "Id": 627,
+    "Title": "Aprender a pensar: Heráclito y Parménides",
+    "Author": "Joan Ferrer Gràcia",
+    "State": "Leído",
+    "ReadingDate": "2022-07-04",
+    "Genre": "Ensayo",
+    "Image": "55938228._SX318_.jpg"
+  },
+  {
+    "Id": 626,
+    "Title": "Obras completas",
+    "Author": "Epicuro",
+    "State": "Leído",
+    "ReadingDate": null,
+    "Genre": "Ensayo",
+    "Image": "6940668.jpg"
+  },
+  {
+    "Id": 625,
+    "Title": "Perictione o De la libertad: Trilogía platónica",
+    "Author": "Ernesto Castro",
+    "State": "Leído",
+    "ReadingDate": "2023-03-12",
+    "Genre": "Ensayo",
+    "Image": "75558550._SY475_.jpg"
+  },
+  {
+    "Id": 624,
+    "Title": "La lengua de los dioses: Nueve razones para amar el griego",
+    "Author": "Andrea Marcolongo",
+    "State": "Leído",
+    "ReadingDate": "2021-05-11",
+    "Genre": "Ensayo",
+    "Image": "36250927._SY475_.jpg"
+  },
+  {
+    "Id": 623,
+    "Title": "El velo de Isis",
+    "Author": "Pierre Hadot",
+    "State": "Leído",
+    "ReadingDate": "2024-06-07",
+    "Genre": "Ensayo",
+    "Image": "27870181._SY475_.jpg"
+  },
+  {
+    "Id": 622,
+    "Title": "La metamorfosis",
+    "Author": "Franz Kafka",
+    "State": "Leído",
+    "ReadingDate": "2007-05-09",
+    "Genre": "Novela",
+    "Image": "2600624._SY475_.jpg"
+  },
+  {
+    "Id": 621,
+    "Title": "¿Hay filosofía en tu nevera?: Descubre las grandes preguntas donde menos te lo esperas",
+    "Author": "Enric F. Gel",
+    "State": "Leído",
+    "ReadingDate": "2023-09-23",
+    "Genre": "Ensayo",
+    "Image": "172870237._SY475_.jpg"
+  },
+  {
+    "Id": 620,
+    "Title": "Aquiles en TikTok: El camino a la virtud / Achilles on TikTok: The Path to Virtue (Spanish Edition)",
+    "Author": "Eduardo Infante",
+    "State": "Leído",
+    "ReadingDate": "2023-06-23",
+    "Genre": "Ensayo",
+    "Image": "201871834._SX318_.jpg"
+  },
+  {
+    "Id": 619,
+    "Title": "La forja del carácter: Una búsqueda de la virtud en la filosofía clásica",
+    "Author": "Massimo Pigliucci",
+    "State": "Leído",
+    "ReadingDate": "2023-04-30",
+    "Genre": "Ensayo",
+    "Image": "140934650._SY475_.jpg"
+  },
+  {
+    "Id": 618,
+    "Title": "Los grandes períodos de la cultura griega",
+    "Author": "José Alsina",
+    "State": "Leído",
+    "ReadingDate": "2024-02-07",
+    "Genre": "Ensayo",
+    "Image": "21552593._SY475_.jpg"
+  },
+  {
+    "Id": 617,
+    "Title": "La lágrima de Jantipa: Los filósofos y las mujeres en la Grecia antigua",
+    "Author": "Manel García Sánchez",
+    "State": "Leído",
+    "ReadingDate": "2024-05-24",
+    "Genre": "Ensayo",
+    "Image": "202795061._SY475_.jpg"
+  },
+  {
+    "Id": 616,
+    "Title": "La senda de Aristóteles: De cómo la sabiduría antigua puede cambiar nuestra vida",
+    "Author": "Edith Hall",
+    "State": "Leído",
+    "ReadingDate": "2022-08-22",
+    "Genre": "Ensayo",
+    "Image": "61079480._SY475_.jpg"
+  },
+  {
+    "Id": 615,
+    "Title": "Hécate: La Diosa Sombría",
+    "Author": "Mario Agudo Villanueva",
+    "State": "Leído",
+    "ReadingDate": "2023-05-11",
+    "Genre": "Ensayo",
+    "Image": "56069934._SY475_.jpg"
+  },
+  {
+    "Id": 614,
+    "Title": "Simposios y banquetes griegos (Spanish Edition)",
+    "Author": "Carlos García Gual",
+    "State": "Leído",
+    "ReadingDate": "2022-07-27",
+    "Genre": "Ensayo",
+    "Image": "61458323._SY475_.jpg"
+  },
+  {
+    "Id": 613,
+    "Title": "Prometeo. El mito del dios rebelde y filántropo",
+    "Author": "Carlos García Gual",
+    "State": "Leído",
+    "ReadingDate": "2022-03-03",
+    "Genre": "Ensayo",
+    "Image": "60596560._SY475_.jpg"
+  },
+  {
+    "Id": 612,
+    "Title": "El arte clásico del mando: Ocho generales griegos que moldearon la historia de la guerra",
+    "Author": "Joseph Roisman",
+    "State": "Leído",
+    "ReadingDate": "2023-06-07",
+    "Genre": "Ensayo",
+    "Image": "128807527._SY475_.jpg"
+  },
+  {
+    "Id": 611,
+    "Title": "Sabiduría antigua para tiempos modernos",
+    "Author": "Mauro Bonazzi",
+    "State": "Leído",
+    "ReadingDate": "2022-09-29",
+    "Genre": "Ensayo",
+    "Image": "61993829._SY475_.jpg"
+  },
+  {
+    "Id": 610,
+    "Title": "Imágenes cómicas y festivas de la Grecia clásica",
+    "Author": "Manuel Alvarez Junco",
+    "State": "Leído",
+    "ReadingDate": "2023-04-23",
+    "Genre": "Ensayo",
+    "Image": "123985176._SY475_.jpg"
+  },
+  {
+    "Id": 609,
+    "Title": "El nadador de Paestum. Juventud, Eros y mar en la antigua Grecia",
+    "Author": "Tonio Höscher",
+    "State": "Leído",
+    "ReadingDate": "2022-11-22",
+    "Genre": "Ensayo",
+    "Image": "62722246.jpg"
+  },
+  {
+    "Id": 608,
+    "Title": "Los griegos antiguos: Las diez maneras en que modelaron el mundo moderno",
+    "Author": "Edith Hall",
+    "State": "Leído",
+    "ReadingDate": "2021-08-21",
+    "Genre": "Ensayo",
+    "Image": "49360467._SY475_.jpg"
+  },
+  {
+    "Id": 607,
+    "Title": "ANTIFRÁGIL. Las cosas que se benefician del desorden",
+    "Author": "Nassim Nicholas Taleb",
+    "State": "Leído",
+    "ReadingDate": "2023-11-23",
+    "Genre": "Ensayo",
+    "Image": "57216577._SY475_.jpg"
+  },
+  {
+    "Id": 606,
+    "Title": "La llama de Mileto: El nacimiento de la ciencia en la Antigua Grecia (Alianza Ensayo nº 813) (Spanish Edition)",
+    "Author": "John Freely",
+    "State": "Leído",
+    "ReadingDate": "2022-02-09",
+    "Genre": "Ensayo",
+    "Image": "59925654._SX318_.jpg"
   }
 ]
